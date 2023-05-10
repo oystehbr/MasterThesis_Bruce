@@ -1,0 +1,447 @@
+##############Dumper num: 0#############
+00:12:45 - FOLLOW PLAN
+        Reward:   41.370
+        State: [6.9, 10.0, 9.7, 44.7]
+00:37:12 - FOLLOW PLAN
+        Reward:   18.711
+        State: [4.2, 10.0, 8.5, 17.6]
+00:56:30 - FOLLOW PLAN
+        Reward:   12.880
+        State: [5.8, 10.0, 11.2, 16.1]
+01:20:57 - COFFEE BREAK
+        Reward:    9.345
+        State: [7.5, 10.0, 16.3, 8.1]
+01:21:43 - COFFEE BREAK
+        Reward:    9.599
+        State: [7.5, 10.0, 15.9, 8.5]
+01:23:16 - COFFEE BREAK
+        Reward:   10.156
+        State: [7.5, 10.0, 15.0, 9.3]
+01:27:09 - COFFEE BREAK
+        Reward:   11.886
+        State: [7.5, 9.3, 12.9, 12.3]
+01:27:40 - COFFEE BREAK
+        Reward:   12.161
+        State: [7.5, 10.0, 12.7, 12.6]
+01:30:34 - FOLLOW PLAN
+        Reward:   13.980
+        State: [7.5, 10.0, 11.1, 14.7]
+
+----------------------------------------------------------------
+##############Dumper num: 1#############
+00:00:00 - FOLLOW PLAN
+        Reward:   26.560
+        State: [2.5, 10.0, 9.1, 28.3]
+00:15:56 - FOLLOW PLAN
+        Reward:   49.169
+        State: [7.5, 10.0, 10.2, 51.7]
+00:43:09 - FOLLOW PLAN
+        Reward:   16.453
+        State: [4.2, 10.0, 8.8, 15.4]
+
+----------------------------------------------------------------
+##############Dumper num: 2#############
+00:00:00 - FOLLOW PLAN
+        Reward:   24.648
+        State: [2.5, 10.0, 9.1, 24.6]
+00:20:07 - FOLLOW PLAN
+        Reward:   17.352
+        State: [4.1, 10.0, 5.9, 21.6]
+
+----------------------------------------------------------------
+##############Dumper num: 3#############
+00:00:00 - FOLLOW PLAN
+        Reward:   22.992
+        State: [2.5, 10.0, 9.1, 22.3]
+00:23:18 - FOLLOW PLAN
+        Reward:   16.511
+        State: [4.1, 10.0, 5.9, 18.6]
+
+----------------------------------------------------------------
+##############Dumper num: 4#############
+00:00:00 - FOLLOW PLAN
+        Reward:   21.545
+        State: [2.5, 10.0, 9.1, 22.2]
+00:26:29 - FOLLOW PLAN
+        Reward:   15.748
+        State: [4.1, 10.0, 5.9, 18.3]
+
+----------------------------------------------------------------
+##############Dumper num: 5#############
+00:00:00 - FOLLOW PLAN
+        Reward:   24.967
+        State: [4.7, 10.0, 15.3, 23.5]
+00:19:50 - FOLLOW PLAN
+        Reward:   22.227
+        State: [5.8, 7.2, 8.3, 23.1]
+
+----------------------------------------------------------------
+##############Dumper num: 6#############
+00:00:00 - FOLLOW PLAN
+        Reward:   20.276
+        State: [2.5, 10.0, 9.1, 20.5]
+
+----------------------------------------------------------------
+##############Dumper num: 7#############
+00:00:00 - FOLLOW PLAN
+        Reward:   19.142
+        State: [2.5, 10.0, 9.1, 20.3]
+00:32:51 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 10.0, 8.2, 10.2]
+00:33:11 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 10.0, 8.0, 10.4]
+00:33:23 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 10.0, 9.4, 10.5]
+00:33:52 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 10.0, 9.1, 10.7]
+00:34:01 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 10.0, 9.0, 10.7]
+00:34:20 - COFFEE BREAK
+        Reward: none 
+        State: [7.0, 5.5, 8.9, 10.9]
+
+----------------------------------------------------------------
+##############Dumper num: 8#############
+00:00:00 - FOLLOW PLAN
+        Reward:   18.129
+        State: [2.5, 10.0, 9.1, 20.0]
+
+----------------------------------------------------------------
+##############Dumper num: 9#############
+00:00:00 - FOLLOW PLAN
+        Reward:   21.328
+        State: [5.5, 10.0, 9.8, 21.9]
+00:19:44 - FOLLOW PLAN
+        Reward:   28.307
+        State: [3.0, 4.3, 6.1, 30.0]
+00:34:38 - FOLLOW PLAN
+        Reward:   14.918
+        State: [5.3, 10.0, 8.7, 13.5]
+
+----------------------------------------------------------------
+##############Dumper num: 10#############
+00:00:00 - FOLLOW PLAN
+        Reward:   17.222
+        State: [2.5, 10.0, 9.1, 16.4]
+00:39:13 - COFFEE BREAK
+        Reward:   11.719
+        State: [7.0, 10.0, 9.7, 11.5]
+00:39:26 - COFFEE BREAK
+        Reward:   11.829
+        State: [7.0, 10.0, 9.5, 11.6]
+00:40:23 - COFFEE BREAK
+        Reward:   12.341
+        State: [7.0, 10.0, 9.0, 12.4]
+00:40:42 - FOLLOW PLAN
+        Reward:   12.522
+        State: [7.0, 5.5, 8.9, 12.7]
+01:10:42 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.8, 12.4, 11.4]
+01:11:13 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.1, 11.6]
+01:13:28 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 10.9, 13.1]
+01:13:43 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.5, 13.3]
+01:14:24 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.1, 13.9]
+01:15:54 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.5, 11.3, 15.3]
+01:16:23 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 11.1, 7.0]
+01:16:54 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 18.4, 7.2]
+01:17:02 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 18.4, 7.2]
+01:17:36 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 18.1, 7.5]
+01:17:50 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.9, 7.6]
+01:18:35 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.5, 7.8]
+01:20:49 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 16.3, 8.6]
+01:20:58 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 16.3, 8.6]
+01:21:43 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.9, 8.9]
+01:23:16 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.0, 9.7]
+01:27:09 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.3, 12.9, 12.1]
+01:27:40 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------
+##############Dumper num: 11#############
+00:00:00 - FOLLOW PLAN
+        Reward:   16.397
+        State: [2.5, 10.0, 9.1, 16.4]
+
+----------------------------------------------------------------
+##############Dumper num: 12#############
+00:00:00 - FOLLOW PLAN
+        Reward:   14.843
+        State: [4.7, 10.0, 14.4, 15.3]
+00:23:01 - FOLLOW PLAN
+        Reward:   19.191
+        State: [4.2, 8.8, 9.3, 21.4]
+00:42:38 - FOLLOW PLAN
+        Reward:   17.147
+        State: [4.2, 4.1, 9.1, 16.7]
+01:02:52 - FOLLOW PLAN
+        Reward:   12.544
+        State: [5.8, 10.0, 12.8, 19.2]
+01:30:33 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 11.2, 15.4]
+
+----------------------------------------------------------------
+##############Dumper num: 13#############
+00:00:00 - FOLLOW PLAN
+        Reward:   14.227
+        State: [4.7, 10.0, 14.4, 15.3]
+00:26:12 - FOLLOW PLAN
+        Reward:   16.632
+        State: [4.8, 9.4, 9.9, 17.8]
+00:47:42 - FOLLOW PLAN
+        Reward:   16.997
+        State: [4.8, 10.0, 9.5, 16.1]
+01:17:35 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 18.1, 7.5]
+01:17:50 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.9, 7.6]
+01:18:35 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.5, 7.8]
+01:20:49 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 16.3, 8.6]
+01:20:58 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 16.3, 8.6]
+01:21:43 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.9, 8.9]
+01:23:16 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.0, 9.7]
+01:27:09 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.3, 12.9, 12.1]
+01:27:40 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------
+##############Dumper num: 14#############
+00:00:00 - FOLLOW PLAN
+        Reward:   13.659
+        State: [4.7, 10.0, 14.4, 15.4]
+00:29:23 - FOLLOW PLAN
+        Reward:   20.556
+        State: [4.2, 4.2, 9.3, 24.7]
+00:48:41 - FOLLOW PLAN
+        Reward:   13.728
+        State: [5.8, 10.0, 13.9, 17.4]
+01:16:22 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 11.1, 7.0]
+01:16:54 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 18.4, 7.2]
+01:17:02 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 18.4, 7.2]
+01:17:36 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 18.1, 7.5]
+01:17:50 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.9, 7.6]
+01:18:35 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 17.5, 7.8]
+01:20:49 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 16.3, 8.6]
+01:20:58 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 16.3, 8.6]
+01:21:43 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.9, 8.9]
+01:23:16 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.0, 9.7]
+01:27:09 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.3, 12.9, 12.1]
+01:27:40 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------
+##############Dumper num: 15#############
+00:00:00 - FOLLOW PLAN
+        Reward:   13.135
+        State: [4.7, 10.0, 14.4, 15.4]
+00:32:34 - FOLLOW PLAN
+        Reward:   17.404
+        State: [4.2, 8.8, 9.3, 15.7]
+00:51:55 - FOLLOW PLAN
+        Reward:   15.970
+        State: [4.8, 10.0, 10.6, 15.5]
+
+----------------------------------------------------------------
+##############Dumper num: 16#############
+00:00:00 - FOLLOW PLAN
+        Reward:   12.650
+        State: [4.7, 10.0, 14.4, 15.4]
+00:35:45 - FOLLOW PLAN
+        Reward:   17.213
+        State: [4.8, 9.4, 9.9, 16.5]
+00:57:15 - FOLLOW PLAN
+        Reward:   16.799
+        State: [4.8, 10.0, 9.5, 16.4]
+01:27:08 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.3, 13.0, 12.0]
+01:27:40 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------
+##############Dumper num: 17#############
+00:00:00 - FOLLOW PLAN
+        Reward:   12.199
+        State: [4.7, 10.0, 14.4, 15.5]
+00:38:56 - FOLLOW PLAN
+        Reward:   17.008
+        State: [4.2, 8.8, 9.3, 14.9]
+
+----------------------------------------------------------------
+##############Dumper num: 18#############
+00:00:00 - FOLLOW PLAN
+        Reward:   12.730
+        State: [5.5, 10.0, 9.8, 16.0]
+00:22:55 - FOLLOW PLAN
+        Reward:   22.595
+        State: [3.0, 4.3, 6.1, 22.7]
+
+----------------------------------------------------------------
+##############Dumper num: 19#############
+00:00:00 - FOLLOW PLAN
+        Reward:   11.781
+        State: [4.7, 10.0, 14.4, 15.5]
+00:42:07 - FOLLOW PLAN
+        Reward:   17.647
+        State: [4.8, 4.8, 10.0, 15.4]
+
+----------------------------------------------------------------
+##############Dumper num: 20#############
+00:00:00 - FOLLOW PLAN
+        Reward:   15.119
+        State: [7.8, 10.0, 12.1, 15.8]
+00:29:54 - FOLLOW PLAN
+        Reward:   15.614
+        State: [4.8, 10.0, 9.6, 15.6]
+00:51:24 - FOLLOW PLAN
+        Reward:   16.937
+        State: [4.2, 4.4, 10.3, 16.4]
+01:20:48 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 7.6, 16.3, 8.6]
+01:20:58 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 16.3, 8.6]
+01:21:43 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.9, 8.9]
+01:23:16 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 15.0, 9.7]
+01:27:09 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 9.3, 12.9, 12.1]
+01:27:40 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------
+##############Dumper num: 21#############
+00:00:00 - FOLLOW PLAN
+        Reward:   11.391
+        State: [4.7, 10.0, 14.4, 13.4]
+00:45:18 - FOLLOW PLAN
+        Reward:   16.199
+        State: [4.2, 10.0, 10.2, 14.9]
+01:14:23 - COFFEE BREAK
+        Reward:   19.286
+        State: [7.5, 10.0, 12.1, 13.9]
+01:15:54 - FOLLOW PLAN
+        Reward:   21.618
+        State: [7.5, 9.5, 11.3, 15.9]
+
+----------------------------------------------------------------
+##############Dumper num: 22#############
+00:00:00 - FOLLOW PLAN
+        Reward:   11.025
+        State: [4.7, 10.0, 14.4, 13.4]
+
+----------------------------------------------------------------
+##############Dumper num: 23#############
+00:00:00 - FOLLOW PLAN
+        Reward:   12.283
+        State: [5.5, 10.0, 9.8, 14.0]
+00:26:06 - FOLLOW PLAN
+        Reward:   21.189
+        State: [3.0, 4.3, 6.1, 23.5]
+00:49:30 - COFFEE BREAK
+        Reward:   10.244
+        State: [7.0, 10.0, 13.5, 13.1]
+00:50:15 - FOLLOW PLAN
+        Reward:   10.543
+        State: [7.0, 5.6, 13.1, 13.5]
+
+----------------------------------------------------------------
+##############Dumper num: 24#############
+00:00:00 - FOLLOW PLAN
+        Reward:   11.857
+        State: [5.5, 10.0, 9.8, 12.1]
+00:29:17 - FOLLOW PLAN
+        Reward:   17.175
+        State: [5.3, 5.8, 8.4, 14.2]
+00:56:03 - FOLLOW PLAN
+        Reward:   10.204
+        State: [7.0, 6.0, 11.4, 16.1]
+01:27:39 - COFFEE BREAK
+        Reward: none 
+        State: [9.2, 10.0, 12.7, 12.4]
+
+----------------------------------------------------------------

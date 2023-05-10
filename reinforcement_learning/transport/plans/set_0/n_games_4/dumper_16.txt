@@ -1,0 +1,14 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    16.00000   
+actual_route: P83   
+mass:  0.00000   
+actual_reward: 
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+state_plan: <helper.State object at 0x7faccd6ac370>   
+waiting_time:  1749.56667   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  0.00000   
+plan_reward:  16.21480   
+

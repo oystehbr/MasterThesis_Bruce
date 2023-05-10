@@ -1,0 +1,330 @@
+L8 
+00:26:49 - Dumper num: 0 
+00:29:59 - FINISHED, queue: [] 
+-- 
+00:44:52 - Dumper num: 1 
+00:48:02 - FINISHED, queue: [] 
+-- 
+00:56:43 - Dumper num: 2 
+00:59:53 - FINISHED, queue: [] 
+-- 
+01:06:53 - Dumper num: 6 
+01:10:03 - FINISHED, queue: [] 
+-- 
+01:16:21 - Dumper num: 13 
+01:19:31 - FINISHED, queue: [Dumper num: 2] 
+01:19:32 - Dumper num: 2 
+01:22:42 - FINISHED, queue: [Dumper num: 10] 
+01:22:43 - Dumper num: 10 
+01:25:53 - FINISHED, queue: [Dumper num: 14, Dumper num: 8] 
+01:25:54 - Dumper num: 14 
+01:29:04 - FINISHED, queue: [Dumper num: 8] 
+01:29:05 - Dumper num: 8 
+01:32:15 - FINISHED, queue: [Dumper num: 15] 
+01:32:16 - Dumper num: 15 
+01:35:26 - FINISHED, queue: [] 
+################################################ 
+L15 
+00:14:49 - Dumper num: 12 
+00:17:59 - FINISHED, queue: [] 
+-- 
+00:29:41 - Dumper num: 10 
+00:32:51 - FINISHED, queue: [] 
+-- 
+00:36:28 - Dumper num: 3 
+00:39:38 - FINISHED, queue: [] 
+00:39:39 - Dumper num: 5 
+00:42:49 - FINISHED, queue: [] 
+-- 
+00:46:01 - Dumper num: 7 
+00:49:11 - FINISHED, queue: [] 
+00:49:12 - Dumper num: 8 
+00:52:22 - FINISHED, queue: [] 
+-- 
+00:55:34 - Dumper num: 11 
+00:58:44 - FINISHED, queue: [] 
+-- 
+01:01:54 - Dumper num: 22 
+01:05:04 - FINISHED, queue: [] 
+01:05:05 - Dumper num: 23 
+01:08:15 - FINISHED, queue: [] 
+-- 
+01:09:33 - Dumper num: 7 
+01:12:43 - FINISHED, queue: [] 
+################################################ 
+L17 
+00:25:34 - Dumper num: 15 
+00:28:44 - FINISHED, queue: [Dumper num: 4] 
+00:28:45 - Dumper num: 4 
+00:31:55 - FINISHED, queue: [] 
+-- 
+00:36:19 - Dumper num: 2 
+00:39:29 - FINISHED, queue: [] 
+-- 
+00:46:24 - Dumper num: 6 
+00:49:34 - FINISHED, queue: [Dumper num: 0, Dumper num: 4, Dumper num: 13] 
+00:49:35 - Dumper num: 0 
+00:52:45 - FINISHED, queue: [Dumper num: 4, Dumper num: 13, Dumper num: 10, Dumper num: 14] 
+00:52:46 - Dumper num: 4 
+00:55:56 - FINISHED, queue: [Dumper num: 13, Dumper num: 10, Dumper num: 14] 
+00:55:57 - Dumper num: 13 
+00:59:07 - FINISHED, queue: [Dumper num: 10, Dumper num: 14] 
+00:59:08 - Dumper num: 10 
+01:02:18 - FINISHED, queue: [Dumper num: 14] 
+01:02:19 - Dumper num: 14 
+01:05:29 - FINISHED, queue: [Dumper num: 1] 
+01:05:30 - Dumper num: 1 
+01:08:40 - FINISHED, queue: [] 
+################################################ 
+L32 
+00:10:28 - Dumper num: 10 
+00:13:38 - FINISHED, queue: [] 
+-- 
+00:18:13 - Dumper num: 16 
+00:21:23 - FINISHED, queue: [Dumper num: 17, Dumper num: 18, Dumper num: 19, Dumper num: 20, Dumper num: 21, Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:21:24 - Dumper num: 17 
+00:24:34 - FINISHED, queue: [Dumper num: 18, Dumper num: 19, Dumper num: 20, Dumper num: 21, Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:24:35 - Dumper num: 18 
+00:27:45 - FINISHED, queue: [Dumper num: 19, Dumper num: 20, Dumper num: 21, Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:27:46 - Dumper num: 19 
+00:30:56 - FINISHED, queue: [Dumper num: 20, Dumper num: 21, Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:30:57 - Dumper num: 20 
+00:34:07 - FINISHED, queue: [Dumper num: 21, Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:34:08 - Dumper num: 21 
+00:37:18 - FINISHED, queue: [Dumper num: 22, Dumper num: 23, Dumper num: 24] 
+00:37:19 - Dumper num: 22 
+00:40:29 - FINISHED, queue: [Dumper num: 23, Dumper num: 24] 
+00:40:30 - Dumper num: 23 
+00:43:40 - FINISHED, queue: [Dumper num: 24] 
+00:43:41 - Dumper num: 24 
+00:46:51 - FINISHED, queue: [] 
+################################################ 
+L72 
+00:04:44 - Dumper num: 0 
+00:07:54 - FINISHED, queue: [Dumper num: 1, Dumper num: 2, Dumper num: 3, Dumper num: 5, Dumper num: 6, Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:07:55 - Dumper num: 1 
+00:11:05 - FINISHED, queue: [Dumper num: 2, Dumper num: 3, Dumper num: 5, Dumper num: 6, Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:11:06 - Dumper num: 2 
+00:14:16 - FINISHED, queue: [Dumper num: 3, Dumper num: 5, Dumper num: 6, Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:14:17 - Dumper num: 3 
+00:17:27 - FINISHED, queue: [Dumper num: 5, Dumper num: 6, Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:17:28 - Dumper num: 5 
+00:20:38 - FINISHED, queue: [Dumper num: 6, Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:20:39 - Dumper num: 6 
+00:23:49 - FINISHED, queue: [Dumper num: 7, Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:23:50 - Dumper num: 7 
+00:27:00 - FINISHED, queue: [Dumper num: 8, Dumper num: 9, Dumper num: 11] 
+00:27:01 - Dumper num: 8 
+00:30:11 - FINISHED, queue: [Dumper num: 9, Dumper num: 11] 
+00:30:12 - Dumper num: 9 
+00:33:22 - FINISHED, queue: [Dumper num: 11] 
+00:33:23 - Dumper num: 11 
+00:36:33 - FINISHED, queue: [] 
+################################################ 
+L97 
+00:08:51 - Dumper num: 4 
+00:12:01 - FINISHED, queue: [Dumper num: 13, Dumper num: 14] 
+00:12:02 - Dumper num: 13 
+00:15:12 - FINISHED, queue: [Dumper num: 14] 
+00:15:13 - Dumper num: 14 
+00:18:23 - FINISHED, queue: [] 
+-- 
+00:24:59 - Dumper num: 1 
+00:28:09 - FINISHED, queue: [] 
+-- 
+00:30:18 - Dumper num: 13 
+00:33:28 - FINISHED, queue: [] 
+00:33:29 - Dumper num: 14 
+00:36:39 - FINISHED, queue: [] 
+-- 
+00:44:21 - Dumper num: 15 
+00:47:31 - FINISHED, queue: [] 
+-- 
+01:02:37 - Dumper num: 15 
+01:05:47 - FINISHED, queue: [] 
+-- 
+01:08:22 - Dumper num: 0 
+01:11:32 - FINISHED, queue: [] 
+01:11:33 - Dumper num: 4 
+01:14:43 - FINISHED, queue: [] 
+################################################ 
+D57 
+00:19:19 - Dumper num: 4 
+00:19:49 - FINISHED, queue: [] 
+-- 
+00:22:30 - Dumper num: 13 
+00:23:00 - FINISHED, queue: [] 
+-- 
+00:25:41 - Dumper num: 14 
+00:26:11 - FINISHED, queue: [] 
+-- 
+00:35:27 - Dumper num: 1 
+00:35:57 - FINISHED, queue: [] 
+-- 
+00:36:33 - Dumper num: 15 
+00:37:03 - FINISHED, queue: [] 
+-- 
+00:38:54 - Dumper num: 0 
+00:39:24 - FINISHED, queue: [] 
+-- 
+00:39:44 - Dumper num: 4 
+00:40:14 - FINISHED, queue: [] 
+-- 
+00:40:46 - Dumper num: 13 
+00:41:16 - FINISHED, queue: [] 
+-- 
+00:43:42 - Dumper num: 10 
+00:44:12 - FINISHED, queue: [Dumper num: 14] 
+00:44:13 - Dumper num: 14 
+00:44:43 - FINISHED, queue: [] 
+-- 
+00:47:18 - Dumper num: 2 
+00:47:48 - FINISHED, queue: [] 
+-- 
+00:54:49 - Dumper num: 15 
+00:55:19 - FINISHED, queue: [] 
+-- 
+00:56:57 - Dumper num: 1 
+00:57:27 - FINISHED, queue: [Dumper num: 6] 
+00:57:28 - Dumper num: 6 
+00:57:58 - FINISHED, queue: [] 
+-- 
+01:00:34 - Dumper num: 0 
+01:01:04 - FINISHED, queue: [] 
+-- 
+01:03:45 - Dumper num: 4 
+01:04:15 - FINISHED, queue: [] 
+-- 
+01:06:56 - Dumper num: 13 
+01:07:26 - FINISHED, queue: [] 
+-- 
+01:08:48 - Dumper num: 2 
+01:09:18 - FINISHED, queue: [] 
+-- 
+01:10:07 - Dumper num: 10 
+01:10:37 - FINISHED, queue: [] 
+-- 
+01:13:18 - Dumper num: 14 
+01:13:48 - FINISHED, queue: [] 
+################################################ 
+D60 
+00:19:37 - Dumper num: 2 
+00:20:07 - FINISHED, queue: [] 
+-- 
+00:22:48 - Dumper num: 3 
+00:23:18 - FINISHED, queue: [] 
+-- 
+00:25:59 - Dumper num: 5 
+00:26:29 - FINISHED, queue: [] 
+-- 
+00:29:10 - Dumper num: 6 
+00:29:40 - FINISHED, queue: [] 
+-- 
+00:32:21 - Dumper num: 7 
+00:32:51 - FINISHED, queue: [] 
+-- 
+00:35:32 - Dumper num: 8 
+00:36:02 - FINISHED, queue: [] 
+-- 
+00:38:43 - Dumper num: 9 
+00:39:13 - FINISHED, queue: [] 
+-- 
+00:41:54 - Dumper num: 11 
+00:42:24 - FINISHED, queue: [] 
+-- 
+00:48:14 - Dumper num: 22 
+00:48:44 - FINISHED, queue: [] 
+-- 
+00:51:25 - Dumper num: 23 
+00:51:55 - FINISHED, queue: [] 
+-- 
+01:05:32 - Dumper num: 8 
+01:06:02 - FINISHED, queue: [] 
+-- 
+01:18:14 - Dumper num: 22 
+01:18:44 - FINISHED, queue: [] 
+-- 
+01:21:25 - Dumper num: 23 
+01:21:55 - FINISHED, queue: [] 
+-- 
+01:25:53 - Dumper num: 7 
+01:26:23 - FINISHED, queue: [] 
+-- 
+01:27:21 - Dumper num: 6 
+01:27:51 - FINISHED, queue: [] 
+-- 
+01:36:49 - Dumper num: 13 
+01:37:19 - FINISHED, queue: [] 
+-- 
+01:43:11 - Dumper num: 10 
+01:43:41 - FINISHED, queue: [] 
+-- 
+01:46:22 - Dumper num: 14 
+01:46:52 - FINISHED, queue: [] 
+-- 
+01:49:33 - Dumper num: 8 
+01:50:03 - FINISHED, queue: [] 
+-- 
+01:52:44 - Dumper num: 15 
+01:53:14 - FINISHED, queue: [] 
+################################################ 
+D63 
+00:12:15 - Dumper num: 0 
+00:12:45 - FINISHED, queue: [] 
+-- 
+00:15:26 - Dumper num: 1 
+00:15:56 - FINISHED, queue: [] 
+-- 
+00:19:15 - Dumper num: 10 
+00:19:45 - FINISHED, queue: [] 
+-- 
+00:27:00 - Dumper num: 16 
+00:27:30 - FINISHED, queue: [] 
+-- 
+00:27:55 - Dumper num: 12 
+00:28:25 - FINISHED, queue: [] 
+-- 
+00:30:11 - Dumper num: 17 
+00:30:41 - FINISHED, queue: [] 
+-- 
+00:33:22 - Dumper num: 18 
+00:33:52 - FINISHED, queue: [] 
+-- 
+00:36:33 - Dumper num: 19 
+00:37:03 - FINISHED, queue: [] 
+-- 
+00:39:44 - Dumper num: 20 
+00:40:14 - FINISHED, queue: [] 
+-- 
+00:42:55 - Dumper num: 21 
+00:43:25 - FINISHED, queue: [] 
+-- 
+00:49:34 - Dumper num: 3 
+00:50:04 - FINISHED, queue: [] 
+-- 
+00:52:28 - Dumper num: 24 
+00:52:58 - FINISHED, queue: [Dumper num: 5] 
+00:52:59 - Dumper num: 5 
+00:53:29 - FINISHED, queue: [] 
+-- 
+00:59:07 - Dumper num: 7 
+00:59:37 - FINISHED, queue: [] 
+-- 
+01:08:40 - Dumper num: 11 
+01:09:10 - FINISHED, queue: [] 
+-- 
+01:14:50 - Dumper num: 15 
+01:15:20 - FINISHED, queue: [] 
+-- 
+01:20:35 - Dumper num: 0 
+01:21:05 - FINISHED, queue: [] 
+-- 
+01:21:38 - Dumper num: 1 
+01:22:08 - FINISHED, queue: [] 
+-- 
+01:23:46 - Dumper num: 4 
+01:24:16 - FINISHED, queue: [] 
+-- 
+01:36:46 - Dumper num: 2 
+01:37:16 - FINISHED, queue: [] 
+################################################ 

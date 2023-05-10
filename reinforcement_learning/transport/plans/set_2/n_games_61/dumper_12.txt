@@ -1,0 +1,104 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    1079.00000   
+actual_route: P83   N73   D63   N53   N43   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  20.46235    20.46235    20.46235    20.46235    20.46235    20.46235    20.46235    20.46235    20.46235   
+plan: L15   
+mass_type: 0   
+state_plan: <helper.State object at 0x7facc0ff1910>   
+waiting_time:  0.00000   
+time_since_last_used_node:  889.00000   
+mass_end:  40.00000   
+driving_time:  873.80000   
+plan_reward:  15.03560   
+coffee_state: [ 7.80178571 10.         12.11071429 15.67621899]   
+coffee_pred: tensor([13.4867, 15.3378], grad_fn=<AddBackward0>)   
+
+###1### start: 00:17:59
+full_route: full_reward: state_info: start_end_time:  1079.00000    1760.00000   
+actual_route: L15   N16   L17   N27   N37   N47   D57   
+mass:  40.00000    0.00000   
+actual_reward:  5.09102    5.09102    5.09102    5.09102    5.09102    5.09102   
+state_plan: <helper.State object at 0x7fad1cf557c0>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  160.00000   
+mass_end:  0.00000   
+driving_time:  648.20000   
+plan_reward:  20.07097   
+
+###2### start: 00:29:20
+full_route: full_reward: state_info: start_end_time:  1760.00000    2419.00000   
+actual_route: D57   N47   N37   N27   L17   
+mass:  0.00000    40.00000   
+actual_reward:  8.39041    8.39041    8.39041    8.39041   
+state_plan: <helper.State object at 0x7facfaf0ca00>   
+plan: L17   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  191.00000   
+mass_end:  40.00000   
+driving_time:  467.20000   
+plan_reward:  20.53605   
+coffee_state: [ 4.17142857  4.16785714  9.28392857 20.86827469]   
+coffee_pred: tensor([17.3382, 23.5889], grad_fn=<AddBackward0>)   
+
+###3### start: 00:40:19
+full_route: full_reward: state_info: start_end_time:  2419.00000    2918.00000   
+actual_route: L17   N27   N37   N47   D57   
+mass:  40.00000    0.00000   
+actual_reward:  1.41267    1.41267    1.41267    1.41267   
+state_plan: <helper.State object at 0x7facfad239a0>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  28.00000   
+mass_end:  0.00000   
+driving_time:  467.20000   
+plan_reward:  15.72776   
+
+###4### start: 00:48:38
+full_route: full_reward: state_info: start_end_time:  2918.00000    3769.00000   
+actual_route: D57   N47   N37   N27   L17   
+mass:  0.00000    40.00000   
+actual_reward:  0.18204    0.18204    0.18204    0.18204   
+state_plan: <helper.State object at 0x7facfaff3fa0>   
+plan: L17   
+mass_type: 0   
+waiting_time:  192.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  467.20000   
+plan_reward:  16.55385   
+coffee_state: [ 4.17142857  8.75        9.3875     16.00383377]   
+coffee_pred: tensor([12.2723, 14.4684], grad_fn=<AddBackward0>)   
+
+###5### start: 01:02:49
+full_route: full_reward: state_info: start_end_time:  3769.00000    4771.00000   
+actual_route: L17   N16   L15   N14   N13   N23   N33   L32   N31   N30   N40   N50   D60   
+mass:  40.00000    0.00000   
+actual_reward:  4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669    4.89669   
+state_plan: <helper.State object at 0x7facc11a5a90>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  232.00000   
+mass_end:  0.00000   
+driving_time:  968.00000   
+plan_reward:  13.44008   
+
+###6### start: 01:19:31
+full_route: full_reward: state_info: start_end_time:  4771.00000    5356.00000   
+actual_route: D60   N61   N62   D63   N73   P83   
+mass:  0.00000   
+actual_reward:  0.17159    0.17159    0.17159    0.17159    0.17159   
+state_plan: <helper.State object at 0x7fad1cf88be0>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+waiting_time:  414.23333   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  582.80000   
+plan_reward:  12.80604   
+

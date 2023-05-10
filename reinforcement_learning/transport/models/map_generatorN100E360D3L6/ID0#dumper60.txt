@@ -1,0 +1,42 @@
+Last reset, Game: 0
+Current, Game: 220
+
+(Rating: 001110, Game: 165) | Fuel (liter):  587.3 | Cost (pay): 25736 | Distance (km):   268.59 | Time (s):    4590 | Loaders_waiting (s):   574 | Dumpers_waiting (s): 22469 | MassL (ton): 2400/2400 | 
+(Rating: 100020, Game:  21) | Fuel (liter):  540.3 | Cost (pay): 20931 | Distance (km):   300.02 | Time (s):    8147 | Loaders_waiting (s):   814 | Dumpers_waiting (s):  6542 | MassL (ton): 2400/2400 | 
+(Rating: 510000, Game: 117) | Fuel (liter):  556.0 | Cost (pay): 20433 | Distance (km):   286.26 | Time (s):    8027 | Loaders_waiting (s):  9898 | Dumpers_waiting (s):  2214 | MassL (ton): 2400/2400 | 
+(Rating: 000001, Game: 189) | Fuel (liter):  657.1 | Cost (pay): 23373 | Distance (km):   309.32 | Time (s):    9437 | Loaders_waiting (s): 32573 | Dumpers_waiting (s):    33 | MassL (ton): 2400/2400 | 
+(Rating: 033200, Game: 161) | Fuel (liter):  573.4 | Cost (pay): 20502 | Distance (km):   282.11 | Time (s):    4815 | Loaders_waiting (s):  6740 | Dumpers_waiting (s):  1260 | MassL (ton): 2400/2400 | 
+(Rating: 200070, Game: 122) | Fuel (liter):  553.2 | Cost (pay): 20800 | Distance (km):   289.51 | Time (s):    7033 | Loaders_waiting (s):  6388 | Dumpers_waiting (s):  4885 | MassL (ton): 2400/2400 | 
+(Rating: 020000, Game: 107) | Fuel (liter):  573.4 | Cost (pay): 20498 | Distance (km):   289.42 | Time (s):    6462 | Loaders_waiting (s): 10359 | Dumpers_waiting (s):  1436 | MassL (ton): 2400/2400 | 
+(Rating: 002000, Game: 158) | Fuel (liter):  561.6 | Cost (pay): 20792 | Distance (km):   280.67 | Time (s):    8277 | Loaders_waiting (s): 15607 | Dumpers_waiting (s):  2077 | MassL (ton): 2400/2400 | 
+(Rating: 000002, Game: 144) | Fuel (liter):  606.7 | Cost (pay): 21454 | Distance (km):   298.20 | Time (s):    7066 | Loaders_waiting (s): 18256 | Dumpers_waiting (s):    50 | MassL (ton): 2400/2400 | 
+(Rating: 600030, Game:  15) | Fuel (liter):  556.8 | Cost (pay): 21283 | Distance (km):   292.24 | Time (s):    7830 | Loaders_waiting (s):  5119 | Dumpers_waiting (s):  4631 | MassL (ton): 2400/2400 | 
+(Rating: 370000, Game:  93) | Fuel (liter):  554.5 | Cost (pay): 20660 | Distance (km):   287.58 | Time (s):    7764 | Loaders_waiting (s):  7145 | Dumpers_waiting (s):  3059 | MassL (ton): 2400/2400 | 
+(Rating: 000390, Game: 152) | Fuel (liter):  601.0 | Cost (pay): 21493 | Distance (km):   296.80 | Time (s):    4860 | Loaders_waiting (s):  6632 | Dumpers_waiting (s):  1512 | MassL (ton): 2400/2400 | 
+(Rating: 000003, Game:  16) | Fuel (liter):  658.4 | Cost (pay): 29408 | Distance (km):   312.32 | Time (s):   25915 | Loaders_waiting (s): 38640 | Dumpers_waiting (s):    52 | MassL (ton): 2400/2400 | 
+(Rating: 084400, Game: 130) | Fuel (liter):  569.9 | Cost (pay): 20660 | Distance (km):   283.50 | Time (s):    5454 | Loaders_waiting (s):  9268 | Dumpers_waiting (s):  1108 | MassL (ton): 2400/2400 | 
+(Rating: 400040, Game:  17) | Fuel (liter):  555.3 | Cost (pay): 21801 | Distance (km):   299.79 | Time (s):   10750 | Loaders_waiting (s):  5722 | Dumpers_waiting (s):  3353 | MassL (ton): 2400/2400 | 
+(Rating: 840060, Game:  95) | Fuel (liter):  558.1 | Cost (pay): 20513 | Distance (km):   288.81 | Time (s):    7123 | Loaders_waiting (s):  6362 | Dumpers_waiting (s):  2980 | MassL (ton): 2400/2400 | 
+(Rating: 000004, Game: 133) | Fuel (liter):  609.4 | Cost (pay): 25321 | Distance (km):   321.12 | Time (s):   17803 | Loaders_waiting (s): 20745 | Dumpers_waiting (s):    81 | MassL (ton): 2400/2400 | 
+(Rating: 050000, Game: 116) | Fuel (liter):  559.4 | Cost (pay): 20546 | Distance (km):   286.88 | Time (s):    8067 | Loaders_waiting (s): 10579 | Dumpers_waiting (s):  2391 | MassL (ton): 2400/2400 | 
+(Rating: 005000, Game: 159) | Fuel (liter):  584.7 | Cost (pay): 20947 | Distance (km):   284.48 | Time (s):    7027 | Loaders_waiting (s): 18023 | Dumpers_waiting (s):  1398 | MassL (ton): 2400/2400 | 
+(Rating: 000500, Game:  78) | Fuel (liter):  583.7 | Cost (pay): 21094 | Distance (km):   288.86 | Time (s):    5527 | Loaders_waiting (s):  9253 | Dumpers_waiting (s):  1466 | MassL (ton): 2400/2400 | 
+(Rating: 000050, Game:  28) | Fuel (liter):  568.7 | Cost (pay): 21319 | Distance (km):   297.18 | Time (s):    7649 | Loaders_waiting (s):  6254 | Dumpers_waiting (s):  4641 | MassL (ton): 2400/2400 | 
+(Rating: 000005, Game:  83) | Fuel (liter):  624.4 | Cost (pay): 21859 | Distance (km):   303.80 | Time (s):    7540 | Loaders_waiting (s): 22415 | Dumpers_waiting (s):   121 | MassL (ton): 2400/2400 | 
+(Rating: 060000, Game:  94) | Fuel (liter):  558.7 | Cost (pay): 20623 | Distance (km):   288.19 | Time (s):    8154 | Loaders_waiting (s):  9622 | Dumpers_waiting (s):  2489 | MassL (ton): 2400/2400 | 
+(Rating: 006000, Game: 119) | Fuel (liter):  560.6 | Cost (pay): 21106 | Distance (km):   284.66 | Time (s):    9849 | Loaders_waiting (s): 14949 | Dumpers_waiting (s):  1754 | MassL (ton): 2400/2400 | 
+(Rating: 000600, Game: 167) | Fuel (liter):  581.0 | Cost (pay): 21151 | Distance (km):   287.57 | Time (s):    5625 | Loaders_waiting (s): 10367 | Dumpers_waiting (s):  1851 | MassL (ton): 2400/2400 | 
+(Rating: 000006, Game:  22) | Fuel (liter):  702.5 | Cost (pay): 31359 | Distance (km):   336.94 | Time (s):   27628 | Loaders_waiting (s): 39464 | Dumpers_waiting (s):   138 | MassL (ton): 2400/2400 | 
+(Rating: 700000, Game: 169) | Fuel (liter):  557.3 | Cost (pay): 20745 | Distance (km):   286.59 | Time (s):    7787 | Loaders_waiting (s):  8227 | Dumpers_waiting (s):  4090 | MassL (ton): 2400/2400 | 
+(Rating: 007000, Game:  13) | Fuel (liter):  561.3 | Cost (pay): 30129 | Distance (km):   284.80 | Time (s):   33699 | Loaders_waiting (s): 24658 | Dumpers_waiting (s):   666 | MassL (ton): 2400/2400 | 
+(Rating: 000700, Game: 125) | Fuel (liter):  583.9 | Cost (pay): 21390 | Distance (km):   291.46 | Time (s):    5743 | Loaders_waiting (s):  9127 | Dumpers_waiting (s):  2161 | MassL (ton): 2400/2400 | 
+(Rating: 000007, Game: 131) | Fuel (liter):  618.4 | Cost (pay): 22303 | Distance (km):   296.60 | Time (s):    9172 | Loaders_waiting (s): 26922 | Dumpers_waiting (s):   170 | MassL (ton): 2400/2400 | 
+(Rating: 008000, Game: 217) | Fuel (liter):  582.5 | Cost (pay): 21007 | Distance (km):   285.27 | Time (s):    6371 | Loaders_waiting (s): 14798 | Dumpers_waiting (s):  1233 | MassL (ton): 2400/2400 | 
+(Rating: 000800, Game:   2) | Fuel (liter):  578.4 | Cost (pay): 21304 | Distance (km):   287.75 | Time (s):    5763 | Loaders_waiting (s):  9690 | Dumpers_waiting (s):  1135 | MassL (ton): 2400/2400 | 
+(Rating: 000080, Game:  58) | Fuel (liter):  591.4 | Cost (pay): 22233 | Distance (km):   302.72 | Time (s):    6237 | Loaders_waiting (s):  6612 | Dumpers_waiting (s):  5757 | MassL (ton): 2400/2400 | 
+(Rating: 000008, Game: 182) | Fuel (liter):  620.9 | Cost (pay): 22173 | Distance (km):   299.24 | Time (s):    8409 | Loaders_waiting (s): 25268 | Dumpers_waiting (s):   203 | MassL (ton): 2400/2400 | 
+(Rating: 900000, Game: 155) | Fuel (liter):  558.1 | Cost (pay): 20881 | Distance (km):   286.79 | Time (s):    8410 | Loaders_waiting (s):  9805 | Dumpers_waiting (s):  3676 | MassL (ton): 2400/2400 | 
+(Rating: 090000, Game: 115) | Fuel (liter):  558.9 | Cost (pay): 20676 | Distance (km):   288.21 | Time (s):    7695 | Loaders_waiting (s):  8344 | Dumpers_waiting (s):  2641 | MassL (ton): 2400/2400 | 
+(Rating: 009000, Game: 160) | Fuel (liter):  603.1 | Cost (pay): 21650 | Distance (km):   285.73 | Time (s):    8839 | Loaders_waiting (s): 27901 | Dumpers_waiting (s):   479 | MassL (ton): 2400/2400 | 
+(Rating: 000900, Game: 111) | Fuel (liter):  606.2 | Cost (pay): 21289 | Distance (km):   301.28 | Time (s):    5889 | Loaders_waiting (s): 12202 | Dumpers_waiting (s):  1581 | MassL (ton): 2400/2400 | 
+(Rating: 000009, Game: 180) | Fuel (liter):  649.8 | Cost (pay): 23066 | Distance (km):   308.63 | Time (s):    9286 | Loaders_waiting (s): 30841 | Dumpers_waiting (s):   206 | MassL (ton): 2400/2400 | 

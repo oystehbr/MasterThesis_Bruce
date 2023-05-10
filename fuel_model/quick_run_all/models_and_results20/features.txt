@@ -1,0 +1,5 @@
+AltitudeChange
+AltitudeDeltaEndStart
+AltitudeGain
+UpInclination
+AccTime

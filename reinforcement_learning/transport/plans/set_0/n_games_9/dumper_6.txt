@@ -1,0 +1,74 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    814.00000   
+actual_route: P83   N73   D63   N53   N43   N33   L32   
+mass:  0.00000    40.00000   
+actual_reward:  20.42208    20.42208    20.42208    20.42208    20.42208    20.42208   
+plan: L32   
+mass_type: 0   
+state_plan: <helper.State object at 0x7fad1c40d340>   
+waiting_time:  0.00000   
+time_since_last_used_node:  624.00000   
+mass_end:  40.00000   
+driving_time:  616.00000   
+plan_reward:  21.26512   
+coffee_state: [ 5.5        10.          9.80892857 19.08255386]   
+coffee_pred: tensor([13.9627, 15.6139], grad_fn=<AddBackward0>)   
+
+###1### start: 00:13:34
+full_route: full_reward: state_info: start_end_time:  814.00000    1181.00000   
+actual_route: L32   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  23.27381    23.27381    23.27381    23.27381   
+state_plan: <helper.State object at 0x7facef9bc940>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  386.00000   
+mass_end:  0.00000   
+driving_time:  336.00000   
+plan_reward:  38.72024   
+
+###2### start: 00:19:41
+full_route: full_reward: state_info: start_end_time:  1181.00000    1967.00000   
+actual_route: D63   N53   N43   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  23.77905    23.77905    23.77905    23.77905    23.77905    23.77905    23.77905   
+state_plan: <helper.State object at 0x7fad1c336f40>   
+plan: L15   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  701.00000   
+mass_end:  40.00000   
+driving_time:  593.80000   
+plan_reward:  24.54347   
+coffee_state: [ 5.30178571  5.85        8.40178571 27.60996819]   
+coffee_pred: tensor([19.4713, 23.1038], grad_fn=<AddBackward0>)   
+
+###3### start: 00:32:47
+full_route: full_reward: state_info: start_end_time:  1967.00000    2593.00000   
+actual_route: L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  1.68407    1.68407    1.68407    1.68407    1.68407    1.68407    1.68407   
+state_plan: <helper.State object at 0x7faccd96b910>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  45.00000   
+mass_end:  0.00000   
+driving_time:  593.80000   
+plan_reward:  19.89905   
+
+###4### start: 00:43:13
+full_route: full_reward: state_info: start_end_time:  2593.00000    2874.00000   
+actual_route: D63   N73   P83   
+mass:  0.00000   
+actual_reward:  0.35714    0.35714   
+state_plan: <helper.State object at 0x7facefb282b0>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+waiting_time:  1240.56667   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  280.00000   
+plan_reward:  18.67339   
+

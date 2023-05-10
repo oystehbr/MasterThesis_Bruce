@@ -1,0 +1,105 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    1293.00000   
+actual_route: P83   N84   N85   N86   N87   L97   
+mass:  0.00000    40.00000   
+actual_reward:  0.10971    0.10971    0.10971    0.10971    0.10971   
+plan: L97   
+mass_type: 0   
+state_plan: <helper.State object at 0x7faccdb38e80>   
+waiting_time:  569.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  524.80000   
+plan_reward:  13.64475   
+coffee_state: [ 4.68571429 10.         14.44642857 13.50226307]   
+coffee_pred: tensor([12.6541, 16.2600], grad_fn=<AddBackward0>)   
+
+###1### start: 00:21:33
+full_route: full_reward: state_info: start_end_time:  1293.00000    1761.00000   
+actual_route: L97   N87   N77   N67   D57   
+mass:  40.00000    0.00000   
+actual_reward:  7.60421    7.60421    7.60421    7.60421   
+state_plan: <helper.State object at 0x7facc04cfee0>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  161.00000   
+mass_end:  0.00000   
+driving_time:  436.60000   
+plan_reward:  29.79844   
+
+###2### start: 00:29:21
+full_route: full_reward: state_info: start_end_time:  1761.00000    2389.00000   
+actual_route: D57   N67   N77   N87   L97   
+mass:  0.00000    40.00000   
+actual_reward:  15.48328    15.48328    15.48328    15.48328   
+state_plan: <helper.State object at 0x7facce77f7c0>   
+plan: L97   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  333.00000   
+mass_end:  40.00000   
+driving_time:  436.60000   
+plan_reward:  26.05335   
+coffee_state: [ 3.89821429 10.          9.00178571 23.13111305]   
+coffee_pred: None   
+
+###3### start: 00:39:49
+full_route: full_reward: state_info: start_end_time:  2389.00000    3266.00000   
+actual_route: L97   N87   N86   N85   N75   N74   N73   D63   N62   N61   D60   
+mass:  40.00000    0.00000   
+actual_reward:  5.05338    5.05338    5.05338    5.05338    5.05338    5.05338    5.05338    5.05338    5.05338    5.05338   
+state_plan: <helper.State object at 0x7facce91ee80>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  208.00000   
+mass_end:  0.00000   
+driving_time:  843.00000   
+plan_reward:  15.43298   
+
+###4### start: 00:54:26
+full_route: full_reward: state_info: start_end_time:  3266.00000    4494.00000   
+actual_route: D60   N50   N40   N30   N31   L32   N33   N23   N13   N14   L15   N16   L17   N7   L8   
+mass:  0.00000    40.00000   
+actual_reward:  24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667    24.19667   
+state_plan: <helper.State object at 0x7facce732790>   
+plan: L8   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  1245.00000   
+mass_end:  40.00000   
+driving_time:  1033.20000   
+plan_reward:  14.34842   
+coffee_state: [ 9.225      10.          9.63035714  9.10756588]   
+coffee_pred: None   
+
+###5### start: 01:14:54
+full_route: full_reward: state_info: start_end_time:  4494.00000    5368.00000   
+actual_route: L8   N7   L17   N16   L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  23.80952    23.80952    23.80952    23.80952    23.80952    23.80952    23.80952    23.80952    23.80952    23.80952    23.80952   
+state_plan: <helper.State object at 0x7fad1c46ef40>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  995.00000   
+mass_end:  0.00000   
+driving_time:  840.00000   
+plan_reward:  13.55208   
+
+###6### start: 01:31:16
+full_route: full_reward: state_info: start_end_time:  5476.00000    5757.00000   
+actual_route: D63   N73   P83   
+mass:  0.00000   
+actual_reward:  0.35714    0.35714   
+state_plan: <helper.State object at 0x7facce964d00>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+coffee_break:  108.00000   
+waiting_time:  4742.73333   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  280.00000   
+plan_reward:  9.31184   
+

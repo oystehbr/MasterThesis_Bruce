@@ -1,0 +1,7 @@
+Quantity  0.000727 
+AltitudeGain  0.000811 
+AltitudeDeltaEndStart  0.008748 
+AltitudeDeltaMaxMin  0.000022 
+AltitudeGainPart  0.001751 
+AccTime  0.000783 
+SpeedMean  0.000556 

@@ -1,0 +1,60 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    2438.00000   
+actual_route: P83   N84   N85   N86   N87   L97   
+mass:  0.00000    40.00000   
+actual_reward:  0.05396    0.05396    0.05396    0.05396    0.05396   
+plan: L97   
+mass_type: 0   
+state_plan: <helper.State object at 0x7facfad23d30>   
+waiting_time:  1699.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  524.80000   
+plan_reward:  11.03028   
+coffee_state: [ 4.68571429 10.         14.44642857 11.19251156]   
+coffee_pred: tensor([10.8603, 14.3500], grad_fn=<AddBackward0>)   
+
+###1### start: 00:40:38
+full_route: full_reward: state_info: start_end_time:  2438.00000    2906.00000   
+actual_route: L97   N87   N77   N67   D57   
+mass:  40.00000    0.00000   
+actual_reward:  7.05451    7.05451    7.05451    7.05451   
+state_plan: <helper.State object at 0x7faccf89e940>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  149.00000   
+mass_end:  0.00000   
+driving_time:  436.60000   
+plan_reward:  19.22850   
+
+###2### start: 00:48:26
+full_route: full_reward: state_info: start_end_time:  2906.00000    3643.00000   
+actual_route: D57   N47   N37   N27   L17   N7   L8   
+mass:  0.00000    40.00000   
+actual_reward:  0.22043    0.22043    0.22043    0.22043    0.22043    0.22043   
+state_plan: <helper.State object at 0x7facc1460220>   
+plan: L8   
+mass_type: 0   
+waiting_time:  12.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  532.40000   
+plan_reward:  15.22991   
+coffee_state: [ 4.75357143 10.         10.2375     20.65124702]   
+coffee_pred: tensor([13.5512, 17.5616], grad_fn=<AddBackward0>)   
+
+###3### start: 01:00:43
+full_route: full_reward: state_info: start_end_time:  3643.00000    4517.00000   
+actual_route: L8   N7   L17   N16   L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000   
+actual_reward:  6.64286    6.64286    6.64286    6.64286    6.64286    6.64286    6.64286    6.64286    6.64286    6.64286    6.64286   
+state_plan: <helper.State object at 0x7faccf9f40a0>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  274.00000   
+mass_end:  0.00000   
+driving_time:  840.00000   
+plan_reward:  12.75490   
+

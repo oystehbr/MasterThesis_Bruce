@@ -1,0 +1,17 @@
+Last reset, Game: 0
+Current, Game: 160
+
+(Sum:85.9%, F:95.7%, T:46.8%, Rating: 110, Game:  79) | Fuel (liter):   80.9 | Cost (pay):  2476 | Time (s):   10974 | Distance (km):    45.87 | Loaders_waiting (s):  1192 | Dumpers_waiting (s):     0 | Dumpers required: 1 | 
+(Sum:75.1%, F:68.8%, T:99.9%, Rating: 441, Game: 100) | Fuel (liter):  112.4 | Cost (pay):  3347 | Time (s):    5145 | Distance (km):    66.00 | Loaders_waiting (s):   436 | Dumpers_waiting (s):     6 | Dumpers required: 3 | 
+(Sum:85.8%, F:95.5%, T:46.8%, Rating: 220, Game:  77) | Fuel (liter):   81.0 | Cost (pay):  2479 | Time (s):   10986 | Distance (km):    45.93 | Loaders_waiting (s):  1192 | Dumpers_waiting (s):     0 | Dumpers required: 1 | 
+(Sum:93.8%, F:95.4%, T:87.1%, Rating: 332, Game:  96) | Fuel (liter):   81.1 | Cost (pay):  2482 | Time (s):    5900 | Distance (km):    46.00 | Loaders_waiting (s):  1192 | Dumpers_waiting (s):     0 | Dumpers required: 2 | 
+(Sum:50.8%, F:49.1%, T:57.4%, Rating: 003, Game:  72) | Fuel (liter):  157.5 | Cost (pay):  4800 | Time (s):    8954 | Distance (km):    85.87 | Loaders_waiting (s):  4135 | Dumpers_waiting (s):     0 | Dumpers required: 3 | 
+(Sum:43.9%, F:40.6%, T:57.0%, Rating: 004, Game:  62) | Fuel (liter):  190.4 | Cost (pay):  5741 | Time (s):    9019 | Distance (km):   105.87 | Loaders_waiting (s):  3875 | Dumpers_waiting (s):   115 | Dumpers required: 4 | 
+(Sum:61.0%, F:67.6%, T:34.4%, Rating: 550, Game:  74) | Fuel (liter):  114.4 | Cost (pay):  3438 | Time (s):   14960 | Distance (km):    65.80 | Loaders_waiting (s):  1192 | Dumpers_waiting (s):     0 | Dumpers required: 1 | 
+(Sum:34.9%, F:29.8%, T:55.3%, Rating: 005, Game:  50) | Fuel (liter):  259.3 | Cost (pay):  7739 | Time (s):    9293 | Distance (km):   145.73 | Loaders_waiting (s):  4492 | Dumpers_waiting (s):     2 | Dumpers required: 4 | 
+(Sum:60.1%, F:61.5%, T:54.4%, Rating: 667, Game:  99) | Fuel (liter):  125.8 | Cost (pay):  3916 | Time (s):    9454 | Distance (km):    65.87 | Loaders_waiting (s):  4745 | Dumpers_waiting (s):     0 | Dumpers required: 2 | 
+(Sum:33.8%, F:28.5%, T:54.8%, Rating: 006, Game:  33) | Fuel (liter):  271.2 | Cost (pay):  8248 | Time (s):    9379 | Distance (km):   145.73 | Loaders_waiting (s):  8185 | Dumpers_waiting (s):   193 | Dumpers required: 4 | 
+(Sum:60.1%, F:61.5%, T:54.4%, Rating: 778, Game:  98) | Fuel (liter):  125.8 | Cost (pay):  3916 | Time (s):    9455 | Distance (km):    65.87 | Loaders_waiting (s):  4747 | Dumpers_waiting (s):     0 | Dumpers required: 2 | 
+(Sum:57.6%, F:59.3%, T:50.9%, Rating: 880, Game:  97) | Fuel (liter):  130.5 | Cost (pay):  4112 | Time (s):   10106 | Distance (km):    65.93 | Loaders_waiting (s):  6197 | Dumpers_waiting (s):     0 | Dumpers required: 2 | 
+(Sum:50.2%, F:54.1%, T:34.4%, Rating: 990, Game:  85) | Fuel (liter):  143.0 | Cost (pay):  4648 | Time (s):   14960 | Distance (km):    65.80 | Loaders_waiting (s): 10252 | Dumpers_waiting (s):     0 | Dumpers required: 1 | 
+(Sum:31.8%, F:26.3%, T:53.9%, Rating: 009, Game:  49) | Fuel (liter):  294.6 | Cost (pay):  8777 | Time (s):    9539 | Distance (km):   165.66 | Loaders_waiting (s):  5063 | Dumpers_waiting (s):     2 | Dumpers required: 4 | 

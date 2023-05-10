@@ -1,0 +1,6 @@
+Quantity
+AltitudeGain
+AltitudeDeltaEndStart
+AltitudeGainPart
+AccTime
+SpeedMean

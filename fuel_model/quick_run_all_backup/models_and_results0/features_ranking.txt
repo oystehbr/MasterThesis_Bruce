@@ -1,0 +1,14 @@
+    VAL           (FEATURE) 
+     0            AltitudeDeltaEndStart
+     1            AltitudeGainPart
+     2            AccTime
+     3            AltitudeGain
+     4            AltitudeChange
+     5            UpInclination
+     6            AltitudeDeltaMaxMin
+     7            Quantity
+     8            SumRotation
+     9            SpeedMean
+    10            AltitudeLossPart
+    11            AltitudeLoss
+    12            DownInclination

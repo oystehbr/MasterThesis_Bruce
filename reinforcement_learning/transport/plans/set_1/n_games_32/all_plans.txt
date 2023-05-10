@@ -1,0 +1,1514 @@
+##############Dumper num: 0##############
+start: 00:00:00
+end: 00:07:54
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:00:00
+driving: 00:04:42
+time_since_last_used_node: 00:04:44
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, -4.7, -8.7, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  46.128
+
+start: 00:07:54
+end: 00:12:45
+PLAN: L72, D63
+PATH: L72, N62, D63
+waiting: 00:00:00
+driving: 00:04:20
+time_since_last_used_node: 00:12:15
+state_plan: [0.0, 0.0, 0.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  50.000
+
+start: 00:12:45
+end: 00:29:59
+PLAN: D63, L8
+PATH: D63, N53, N43, N33, N23, N13, N14, L15, N16, L17, N7, L8
+waiting: 00:00:00
+driving: 00:14:00
+time_since_last_used_node: 00:26:49
+state_plan: [4.7, -26.8, 4.7, -25.7, 1.6, 19.3, 12.4, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  34.309
+
+start: 00:29:59
+end: 00:39:25
+PLAN: L8, D57
+PATH: L8, N7, L17, N27, N37, N47, D57
+waiting: 00:00:01
+driving: 00:08:52
+time_since_last_used_node: 00:00:01
+state_plan: [1.0, 0.0, 2.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  21.962
+
+start: 00:39:25
+end: 00:51:30
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:00:32
+state_plan: [12.3, -0.5, -1.1, 2.7, -2.2, -15.8, -6.0, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  15.614
+
+start: 00:51:30
+end: 01:00:55
+PLAN: L8, D57
+PATH: L8, N7, L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:02:13
+state_plan: [7.0, 0.0, 3.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  13.660
+
+start: 01:00:55
+end: 01:13:28
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:28
+driving: 00:08:52
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 0.5, 0.4, 3.4, -23.6, -37.3, -27.5, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  15.173
+
+start: 01:13:28
+end: 01:31:16
+PLAN: L8, D60
+PATH: L8, N7, L17, N16, L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:17:13
+time_since_last_used_node: 00:02:41
+state_plan: [5.0, 0.0, 5.0, 8.9, 17.2, 14.0]
+mass: [40, 40], type: 0 
+plan_reward:  12.592
+
+----------------------------------------------------------------
+##############Dumper num: 1##############
+start: 00:00:00
+end: 00:11:05
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:03:10
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 3.2, -8.7, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  26.560
+
+start: 00:11:05
+end: 00:15:56
+PLAN: L72, D63
+PATH: L72, N62, D63
+waiting: 00:00:00
+driving: 00:04:20
+time_since_last_used_node: 00:02:41
+state_plan: [0.0, 0.0, 1.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.631
+
+start: 00:15:56
+end: 00:32:04
+PLAN: D63, L17
+PATH: D63, N53, N43, N33, N23, N13, N14, L15, N16, L17
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:28:54
+state_plan: [4.7, 0.0, 1.7, -28.8, -1.6, 16.2, 9.3, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  65.089
+
+start: 00:32:04
+end: 00:40:23
+PLAN: L17, D57
+PATH: L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:07:47
+time_since_last_used_node: 00:00:28
+state_plan: [2.0, 0.0, 2.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  22.156
+
+start: 00:40:23
+end: 00:53:04
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:01:42
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 2.2, -2.0, 1.7, -3.1, -16.8, -7.0, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.942
+
+start: 00:53:04
+end: 01:06:32
+PLAN: L17, D63
+PATH: L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:06:25
+state_plan: [8.0, 0.0, 3.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  13.626
+
+start: 01:06:32
+end: 01:11:13
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -3.9, -4.3, -7.3, -24.5, -34.3, -34.9, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  22.029
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 2##############
+start: 00:00:00
+end: 00:14:16
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:06:20
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 6.4, -8.7, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  24.648
+
+start: 00:14:16
+end: 00:20:07
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:19:37
+state_plan: [1.0, 0.0, 3.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:20:07
+end: 00:31:42
+PLAN: D60, L32
+PATH: D60, N50, N40, N30, N31, L32
+waiting: 00:00:40
+driving: 00:07:43
+time_since_last_used_node: 00:00:01
+state_plan: [9.7, -7.4, -5.7, -4.2, 0.7, 11.0, 3.2, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  17.352
+
+start: 00:31:42
+end: 00:37:49
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:30
+state_plan: [2.0, 0.0, 1.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  32.854
+
+start: 00:37:49
+end: 00:42:30
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -4.0, 1.4, -7.2, 4.2, -5.6, -6.2, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  19.662
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 3##############
+start: 00:00:00
+end: 00:12:00
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:00:00
+driving: 00:08:44
+time_since_last_used_node: 00:08:50
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 9.6, -8.7, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  24.910
+
+start: 00:12:00
+end: 00:19:48
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:19:18
+state_plan: [0.0, 0.0, 2.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  29.798
+
+start: 00:19:48
+end: 00:37:28
+PLAN: D57, L97
+PATH: D57, N67, N77, N87, L97
+waiting: 00:07:12
+driving: 00:07:16
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 1.3, -3.1, 4.4, -1.6, 3.7, 7.1, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.574
+
+start: 00:37:28
+end: 00:45:16
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 2.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  23.374
+
+start: 00:45:16
+end: 00:59:26
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:03:10
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, -2.7, 2.6, 3.2, -8.0, -21.7, -11.9, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.562
+
+start: 00:59:26
+end: 01:12:54
+PLAN: L17, D63
+PATH: L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:05:52
+state_plan: [8.0, 0.0, 3.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  13.626
+
+start: 01:12:54
+end: 01:17:35
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -10.2, 5.9, -13.6, -30.9, -40.7, -41.3, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  23.431
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 4##############
+start: 00:00:00
+end: 00:17:27
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:09:29
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 9.6, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  23.000
+
+start: 00:17:27
+end: 00:23:18
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 3.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:23:18
+end: 00:38:04
+PLAN: D60, L32
+PATH: D60, N50, N40, N30, N31, L32
+waiting: 00:03:51
+driving: 00:07:43
+time_since_last_used_node: 00:00:01
+state_plan: [9.7, -10.6, 0.6, -7.4, 3.9, 7.9, 0.1, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  16.511
+
+start: 00:38:04
+end: 00:44:11
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:41
+state_plan: [3.0, 0.0, 2.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.531
+
+start: 00:44:11
+end: 00:48:52
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -6.7, 4.6, -0.9, -2.2, -12.0, -12.5, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  20.198
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 5##############
+start: 00:00:00
+end: 00:20:38
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:12:39
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 12.7, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  21.553
+
+start: 00:20:38
+end: 00:26:29
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 3.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:26:29
+end: 00:44:26
+PLAN: D60, L32
+PATH: D60, N50, N40, N30, N31, L32
+waiting: 00:07:02
+driving: 00:07:43
+time_since_last_used_node: 00:00:01
+state_plan: [9.7, -5.5, -2.6, -10.6, 7.0, 4.7, -3.1, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  15.748
+
+start: 00:44:26
+end: 00:50:33
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:37
+state_plan: [6.0, 0.0, 2.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.531
+
+start: 00:50:33
+end: 00:55:14
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -4.8, -1.7, -0.9, -8.5, -18.3, -18.9, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  21.210
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 6##############
+start: 00:00:00
+end: 00:23:49
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:15:49
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 15.9, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  20.276
+
+start: 00:23:49
+end: 00:29:40
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 3.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:29:40
+end: 00:47:37
+PLAN: D60, L32
+PATH: D60, N50, N40, N30, N31, L32
+waiting: 00:07:02
+driving: 00:07:43
+time_since_last_used_node: 00:00:01
+state_plan: [9.7, -8.7, -5.8, -13.7, 7.0, 1.5, -3.1, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  15.748
+
+start: 00:47:37
+end: 00:55:52
+PLAN: L32, D60
+PATH: L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:07:43
+time_since_last_used_node: 00:05:52
+state_plan: [6.0, 0.0, 3.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.063
+
+start: 00:55:52
+end: 01:12:12
+PLAN: D60, L15
+PATH: D60, N50, N40, N30, N31, L32, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:13:07
+time_since_last_used_node: 00:10:18
+state_plan: [9.7, -13.4, -10.2, -3.0, -16.0, -24.6, -29.3, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  14.634
+
+start: 01:12:12
+end: 01:25:52
+PLAN: L15, D60
+PATH: L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:13:06
+time_since_last_used_node: 00:06:03
+state_plan: [6.0, 0.0, 6.0, 10.8, 13.1, 9.9]
+mass: [40, 40], type: 0 
+plan_reward:  16.531
+
+----------------------------------------------------------------
+##############Dumper num: 7##############
+start: 00:00:00
+end: 00:27:00
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:18:59
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 19.1, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  19.142
+
+start: 00:27:00
+end: 00:32:51
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 3.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:32:51
+end: 00:49:11
+PLAN: D60, L15
+PATH: D60, N50, N40, N30, N31, L32, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:13:07
+time_since_last_used_node: 00:09:01
+state_plan: [9.7, -8.1, -9.0, -5.5, 7.0, -1.6, -6.3, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  13.911
+
+start: 00:49:11
+end: 00:59:37
+PLAN: L15, D63
+PATH: L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:09:53
+time_since_last_used_node: 00:08:34
+state_plan: [6.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  18.226
+
+start: 00:59:37
+end: 01:04:18
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -3.4, 2.7, -0.4, -17.6, -27.4, -28.0, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  22.034
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 8##############
+start: 00:00:00
+end: 00:30:11
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:22:09
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 22.3, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  18.129
+
+start: 00:30:11
+end: 00:36:02
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 2.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:36:02
+end: 00:45:47
+PLAN: D60, P83
+PATH: D60, N61, N62, D63, N73, P83
+state_plan: [9.7, -5.5, 0.0, -8.7, 3.8, -4.8, -9.4, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+plan_reward:  11.352
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 9##############
+start: 00:00:00
+end: 00:13:37
+PLAN: P83, L32
+PATH: P83, N73, D63, N53, N43, N33, L32
+waiting: 00:00:00
+driving: 00:10:16
+time_since_last_used_node: 00:10:27
+state_plan: [0.0, -18.7, -14.6, -17.6, -10.3, 25.5, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  21.328
+
+start: 00:13:37
+end: 00:19:44
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:03:18
+state_plan: [1.0, 0.0, 2.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.531
+
+start: 00:19:44
+end: 00:28:31
+PLAN: D63, L32
+PATH: D63, N53, N43, N33, L32
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:05:22
+state_plan: [4.7, -3.8, -2.1, -0.6, -5.3, 12.4, 5.5, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  37.710
+
+start: 00:28:31
+end: 00:36:46
+PLAN: L32, D60
+PATH: L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:07:43
+time_since_last_used_node: 00:00:14
+state_plan: [2.0, 0.0, 3.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.063
+
+start: 00:36:46
+end: 00:46:31
+PLAN: D60, P83
+PATH: D60, N61, N62, D63, N73, P83
+state_plan: [9.7, -6.2, -0.7, -9.4, 3.1, -5.5, -10.2, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+plan_reward:  11.352
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 10##############
+start: 00:00:00
+end: 00:33:22
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:25:18
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, 3.2, 25.5, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  17.222
+
+start: 00:33:22
+end: 00:39:13
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:01:57
+state_plan: [3.0, 0.0, 2.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:39:13
+end: 00:48:58
+PLAN: D60, P83
+PATH: D60, N61, N62, D63, N73, P83
+state_plan: [9.7, -8.7, -3.2, -5.5, 0.6, -8.0, -12.6, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+plan_reward:  11.362
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 11##############
+start: 00:00:00
+end: 00:36:33
+PLAN: P83, L72
+PATH: P83, N82, L72
+waiting: 00:28:28
+driving: 00:04:42
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, 3.2, 28.6, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  16.397
+
+start: 00:36:33
+end: 00:42:24
+PLAN: L72, D60
+PATH: L72, N62, N61, D60
+waiting: 00:00:00
+driving: 00:05:19
+time_since_last_used_node: 00:02:41
+state_plan: [3.0, 0.0, 2.0, 13.0, 5.3, 4.3]
+mass: [40, 0], type: 0 
+plan_reward:  40.682
+
+start: 00:42:24
+end: 00:58:44
+PLAN: D60, L15
+PATH: D60, N50, N40, N30, N31, L32, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:13:07
+time_since_last_used_node: 00:06:23
+state_plan: [9.7, -8.1, -6.4, -2.3, -2.5, -11.2, -15.8, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  12.631
+
+start: 00:58:44
+end: 01:12:24
+PLAN: L15, D60
+PATH: L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:13:06
+time_since_last_used_node: 00:16:02
+state_plan: [9.0, 0.0, 4.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  16.531
+
+start: 01:12:24
+end: 01:28:44
+PLAN: D60, L15
+PATH: D60, N50, N40, N30, N31, L32, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:13:07
+time_since_last_used_node: 00:13:22
+state_plan: [9.7, -13.0, -13.3, -16.4, -32.5, -41.2, -45.8, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  16.709
+
+start: 01:28:44
+end: 01:42:24
+PLAN: L15, D60
+PATH: L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:13:06
+time_since_last_used_node: 00:07:27
+state_plan: [3.0, 0.0, 3.0, 10.8, 13.1, 9.9]
+mass: [40, 40], type: 0 
+plan_reward:  16.531
+
+----------------------------------------------------------------
+##############Dumper num: 12##############
+start: 00:00:00
+end: 00:16:48
+PLAN: P83, L32
+PATH: P83, N73, D63, N53, N43, N33, L32
+waiting: 00:03:08
+driving: 00:10:16
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, 3.2, 31.8, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  12.715
+
+start: 00:16:48
+end: 00:22:55
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 2.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.531
+
+start: 00:22:55
+end: 00:34:53
+PLAN: D63, L32
+PATH: D63, N53, N43, N33, L32
+waiting: 00:03:11
+driving: 00:05:36
+time_since_last_used_node: 00:00:01
+state_plan: [4.7, -7.0, -5.3, -3.8, 3.2, 9.2, 5.5, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  22.595
+
+start: 00:34:53
+end: 00:41:00
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:10
+state_plan: [3.0, 0.0, 1.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  32.854
+
+start: 00:41:00
+end: 00:45:41
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -3.5, -1.7, -0.9, 1.0, -8.8, -9.4, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  20.202
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 13##############
+start: 00:00:00
+end: 00:19:59
+PLAN: P83, L32
+PATH: P83, N73, D63, N53, N43, N33, L32
+waiting: 00:06:18
+driving: 00:10:16
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, -14.6, -17.6, 6.4, 31.8, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  12.260
+
+start: 00:19:59
+end: 00:26:06
+PLAN: L32, D63
+PATH: L32, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:05:36
+time_since_last_used_node: 00:02:41
+state_plan: [2.0, 0.0, 2.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.531
+
+start: 00:26:06
+end: 00:41:15
+PLAN: D63, L32
+PATH: D63, N53, N43, N33, L32
+waiting: 00:06:22
+driving: 00:05:36
+time_since_last_used_node: 00:00:01
+state_plan: [4.7, -10.2, 1.0, -7.0, 6.4, 6.1, 2.3, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  21.189
+
+start: 00:41:15
+end: 00:49:30
+PLAN: L32, D60
+PATH: L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:07:43
+time_since_last_used_node: 00:06:36
+state_plan: [5.0, 0.0, 3.0, 10.3, 7.7, 5.6]
+mass: [40, 0], type: 0 
+plan_reward:  28.063
+
+start: 00:49:30
+end: 00:59:15
+PLAN: D60, P83
+PATH: D60, N61, N62, D63, N73, P83
+state_plan: [9.7, -7.0, -3.9, -3.0, -9.6, -18.3, -22.9, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+plan_reward:  11.852
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 14##############
+start: 00:00:00
+end: 00:18:01
+PLAN: P83, L15
+PATH: P83, N73, D63, N53, N43, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:14:33
+time_since_last_used_node: 00:14:51
+state_plan: [0.0, -18.7, -14.6, -17.6, 9.6, 31.8, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  15.056
+
+start: 00:18:01
+end: 00:29:52
+PLAN: L15, D57
+PATH: L15, N16, L17, N27, N37, N47, D57
+waiting: 00:00:30
+driving: 00:10:48
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  20.071
+
+start: 00:29:52
+end: 00:41:57
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:00:32
+state_plan: [12.3, -0.5, -3.7, -5.6, 7.4, -6.3, 3.5, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  15.614
+
+start: 00:41:57
+end: 00:51:22
+PLAN: L8, D57
+PATH: L8, N7, L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:02:25
+state_plan: [4.0, 0.0, 2.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  16.844
+
+start: 00:51:22
+end: 01:05:48
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:03:27
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, -0.5, -3.5, 3.4, -14.1, -27.8, -18.0, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.491
+
+start: 01:05:48
+end: 01:19:16
+PLAN: L17, D63
+PATH: L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:04:27
+state_plan: [7.0, 0.0, 4.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  12.820
+
+start: 01:19:16
+end: 01:32:22
+PLAN: D63, L15
+PATH: D63, N53, N43, N33, N23, N13, N14, L15
+waiting: 00:00:00
+driving: 00:09:53
+time_since_last_used_node: 00:00:28
+state_plan: [4.7, -16.6, -0.5, -20.0, -37.2, -47.1, -47.6, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+mass: [0, 40], type: 0 
+plan_reward:  13.931
+
+start: 01:32:22
+end: 01:46:02
+PLAN: L15, D60
+PATH: L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:13:06
+time_since_last_used_node: 00:03:08
+state_plan: [2.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 40], type: 0 
+plan_reward:  16.531
+
+----------------------------------------------------------------
+##############Dumper num: 15##############
+start: 00:00:00
+end: 00:15:11
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:02:59
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 3.2, -17.6, 9.6, 31.8, 3.2, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  14.860
+
+start: 00:15:11
+end: 00:22:59
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [0.0, 0.0, 2.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  29.798
+
+start: 00:22:59
+end: 00:37:00
+PLAN: D57, L15
+PATH: D57, N47, N37, N27, L17, N16, L15
+waiting: 00:00:00
+driving: 00:10:48
+time_since_last_used_node: 00:06:16
+state_plan: [12.3, -1.9, -6.2, 1.3, 1.6, 0.5, 7.2, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.020
+
+start: 00:37:00
+end: 00:47:26
+PLAN: L15, D63
+PATH: L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:09:53
+time_since_last_used_node: 00:02:45
+state_plan: [2.0, 0.0, 1.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  19.899
+
+start: 00:47:26
+end: 00:52:07
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -10.0, 1.4, -0.9, -5.4, -15.2, -15.8, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  21.179
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 16##############
+start: 00:00:00
+end: 00:18:22
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:06:09
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 3.2, -17.6, 9.6, 31.8, 6.4, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  14.242
+
+start: 00:18:22
+end: 00:26:10
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 2.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  26.198
+
+start: 00:26:10
+end: 00:38:15
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:05:06
+state_plan: [12.3, -5.1, 0.0, -1.9, 4.7, -2.6, 4.0, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  19.452
+
+start: 00:38:15
+end: 00:47:40
+PLAN: L8, D57
+PATH: L8, N7, L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:01:54
+state_plan: [3.0, 0.0, 3.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  18.262
+
+start: 00:47:40
+end: 00:59:45
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:05:05
+state_plan: [12.3, -5.1, 0.2, 4.0, -10.4, -24.1, -14.3, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  19.434
+
+start: 00:59:45
+end: 01:14:19
+PLAN: L8, D63
+PATH: L8, N7, L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:14:00
+time_since_last_used_node: 00:00:55
+state_plan: [8.0, 0.0, 4.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  12.046
+
+start: 01:14:19
+end: 01:19:00
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -11.7, 4.5, -15.1, -32.3, -42.1, -42.7, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  23.437
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 17##############
+start: 00:00:00
+end: 00:21:33
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:09:19
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 3.2, -17.6, 9.6, 31.8, 9.6, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  13.673
+
+start: 00:21:33
+end: 00:29:21
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 3.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  26.198
+
+start: 00:29:21
+end: 00:40:39
+PLAN: D57, L97
+PATH: D57, N67, N77, N87, L97
+waiting: 00:00:50
+driving: 00:07:16
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 0.0, -3.2, -5.1, 4.7, -5.8, 0.8, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  18.361
+
+start: 00:40:39
+end: 00:48:27
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:00:17
+state_plan: [4.0, 0.0, 3.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  19.228
+
+start: 00:48:27
+end: 01:02:37
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:03:11
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 2.4, -0.6, 3.2, -11.2, -24.9, -15.1, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.558
+
+start: 01:02:37
+end: 01:19:19
+PLAN: L17, D60
+PATH: L17, N16, L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:16:07
+time_since_last_used_node: 00:06:25
+state_plan: [8.0, 0.0, 5.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  13.440
+
+start: 01:19:19
+end: 01:39:47
+PLAN: D60, L8
+PATH: D60, N50, N40, N30, N31, L32, N33, N23, N13, N14, L15, N16, L17, N7, L8
+waiting: 00:00:00
+driving: 00:17:13
+time_since_last_used_node: 00:19:58
+state_plan: [9.7, -19.9, -0.1, -23.3, -39.4, -48.1, -52.7, 17.2, 13.1, 16.1, 7.7, 5.3, 14.1]
+mass: [0, 40], type: 0 
+plan_reward:  13.916
+
+start: 01:39:47
+end: 01:57:35
+PLAN: L8, D60
+PATH: L8, N7, L17, N16, L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:17:13
+time_since_last_used_node: 00:11:03
+state_plan: [1.0, 0.0, 1.0, 8.9, 17.2, 14.0]
+mass: [40, 40], type: 0 
+plan_reward:  12.592
+
+----------------------------------------------------------------
+##############Dumper num: 18##############
+start: 00:00:00
+end: 00:24:44
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:12:29
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 3.2, -17.6, 9.6, 31.8, 12.7, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  13.148
+
+start: 00:24:44
+end: 00:32:32
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:10
+state_plan: [1.0, 0.0, 3.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  26.198
+
+start: 00:32:32
+end: 00:43:31
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:00:00
+driving: 00:07:47
+time_since_last_used_node: 00:08:17
+state_plan: [12.3, 0.5, -6.4, -8.3, 4.7, -9.0, 0.8, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  28.916
+
+start: 00:43:31
+end: 00:51:53
+PLAN: L17, D57
+PATH: L17, N27, N37, N47, D57
+waiting: 00:00:03
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [5.0, 0.0, 2.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  16.958
+
+start: 00:51:53
+end: 01:08:59
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:06:07
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, -1.0, -4.0, 6.1, -14.6, -28.3, -18.5, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  15.848
+
+start: 01:08:59
+end: 01:22:27
+PLAN: L17, D63
+PATH: L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:02:41
+state_plan: [7.0, 0.0, 5.0, 7.8, 16.1, 12.9]
+mass: [40, 40], type: 0 
+plan_reward:  12.105
+
+----------------------------------------------------------------
+##############Dumper num: 19##############
+start: 00:00:00
+end: 00:21:12
+PLAN: P83, L15
+PATH: P83, N73, D63, N53, N43, N33, N23, N13, N14, L15
+waiting: 00:03:06
+driving: 00:14:33
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 3.2, -17.6, 9.6, 31.8, 15.9, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  9.064
+
+start: 00:21:12
+end: 00:31:38
+PLAN: L15, D63
+PATH: L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:09:53
+time_since_last_used_node: 00:05:02
+state_plan: [1.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  18.226
+
+start: 00:31:38
+end: 00:36:19
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -3.7, -4.6, -12.5, 10.3, 0.6, -0.0, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  19.018
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 20##############
+start: 00:00:00
+end: 00:27:55
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:15:38
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 6.4, -17.6, 9.6, 31.8, 15.9, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  12.665
+
+start: 00:27:55
+end: 00:35:43
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 3.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  26.198
+
+start: 00:35:43
+end: 00:47:48
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:02:41
+state_plan: [12.3, -2.7, 2.6, 0.0, 1.5, -12.1, -2.3, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  17.213
+
+start: 00:47:48
+end: 00:57:13
+PLAN: L8, D57
+PATH: L8, N7, L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:04:50
+state_plan: [5.0, 0.0, 2.0, 8.9, 17.2, 14.0]
+mass: [40, 0], type: 0 
+plan_reward:  15.630
+
+start: 00:57:13
+end: 01:12:10
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:03:58
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, -6.3, 4.1, 4.0, -19.9, -33.6, -23.8, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.362
+
+start: 01:12:10
+end: 01:25:38
+PLAN: L17, D63
+PATH: L17, N16, L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:12:54
+time_since_last_used_node: 00:02:41
+state_plan: [6.0, 0.0, 5.0, 7.8, 16.1, 12.9]
+mass: [40, 40], type: 0 
+plan_reward:  12.105
+
+----------------------------------------------------------------
+##############Dumper num: 21##############
+start: 00:00:00
+end: 00:24:23
+PLAN: P83, L15
+PATH: P83, N73, D63, N53, N43, N33, N23, N13, N14, L15
+waiting: 00:06:15
+driving: 00:14:33
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 6.4, -17.6, 9.6, 31.8, 19.1, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  8.832
+
+start: 00:24:23
+end: 00:34:49
+PLAN: L15, D63
+PATH: L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:00
+driving: 00:09:53
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  18.226
+
+start: 00:34:49
+end: 00:39:30
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -6.9, 4.4, -4.2, 7.2, -2.6, -3.2, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  19.371
+
+################ PARKED ################# 
+
+----------------------------------------------------------------
+##############Dumper num: 22##############
+start: 00:00:00
+end: 00:31:06
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:18:47
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 9.6, -17.6, 9.6, 31.8, 19.1, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  12.215
+
+start: 00:31:06
+end: 00:38:54
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:02:41
+state_plan: [1.0, 0.0, 1.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  26.198
+
+start: 00:38:54
+end: 00:49:53
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:00:00
+driving: 00:07:47
+time_since_last_used_node: 00:03:12
+state_plan: [12.3, 0.0, -0.6, -3.2, -1.7, -15.3, -5.5, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  20.556
+
+start: 00:49:53
+end: 00:58:12
+PLAN: L17, D57
+PATH: L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:07:47
+time_since_last_used_node: 00:00:29
+state_plan: [6.0, 0.0, 3.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  15.728
+
+start: 00:58:12
+end: 01:10:17
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:07:22
+state_plan: [12.3, -7.3, 3.2, 6.2, -20.9, -34.6, -24.8, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  22.154
+
+start: 01:10:17
+end: 01:28:05
+PLAN: L8, D60
+PATH: L8, N7, L17, N16, L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:17:13
+time_since_last_used_node: 00:01:43
+state_plan: [7.0, 0.0, 6.0, 8.9, 17.2, 14.0]
+mass: [40, 40], type: 0 
+plan_reward:  12.592
+
+----------------------------------------------------------------
+##############Dumper num: 23##############
+start: 00:00:00
+end: 00:34:17
+PLAN: P83, L97
+PATH: P83, N84, N85, N86, N87, L97
+waiting: 00:21:57
+driving: 00:08:44
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 9.6, -17.6, 9.6, 31.8, 22.3, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  11.794
+
+start: 00:34:17
+end: 00:42:05
+PLAN: L97, D57
+PATH: L97, N87, N77, N67, D57
+waiting: 00:00:00
+driving: 00:07:16
+time_since_last_used_node: 00:01:12
+state_plan: [2.0, 0.0, 1.0, 7.3, 14.1, 9.0]
+mass: [40, 0], type: 0 
+plan_reward:  23.374
+
+start: 00:42:05
+end: 00:56:15
+PLAN: D57, L17
+PATH: D57, N47, N37, N27, L17
+waiting: 00:03:11
+driving: 00:07:47
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 0.5, -3.7, 3.2, -4.8, -18.5, -8.7, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  16.558
+
+start: 00:56:15
+end: 01:04:34
+PLAN: L17, D57
+PATH: L17, N27, N37, N47, D57
+waiting: 00:00:00
+driving: 00:07:47
+time_since_last_used_node: 00:03:09
+state_plan: [8.0, 0.0, 4.0, 7.8, 16.1, 12.9]
+mass: [40, 0], type: 0 
+plan_reward:  13.735
+
+start: 01:04:34
+end: 01:16:39
+PLAN: D57, L8
+PATH: D57, N47, N37, N27, L17, N7, L8
+waiting: 00:00:00
+driving: 00:08:52
+time_since_last_used_node: 00:00:01
+state_plan: [12.3, 0.0, -3.2, -0.2, -27.3, -41.0, -31.2, 8.9, 10.8, 7.8, 10.3, 13.0, 7.3]
+mass: [0, 40], type: 0 
+plan_reward:  15.273
+
+start: 01:16:39
+end: 01:34:27
+PLAN: L8, D60
+PATH: L8, N7, L17, N16, L15, N14, N13, N23, N33, L32, N31, N30, N40, N50, D60
+waiting: 00:00:00
+driving: 00:17:13
+time_since_last_used_node: 00:02:41
+state_plan: [4.0, 0.0, 4.0, 8.9, 17.2, 14.0]
+mass: [40, 40], type: 0 
+plan_reward:  12.592
+
+----------------------------------------------------------------
+##############Dumper num: 24##############
+start: 00:00:00
+end: 00:27:34
+PLAN: P83, L15
+PATH: P83, N73, D63, N53, N43, N33, N23, N13, N14, L15
+waiting: 00:09:23
+driving: 00:14:33
+time_since_last_used_node: 00:00:01
+state_plan: [0.0, -18.7, 9.6, -17.6, 9.6, 31.8, 25.5, 18.7, 14.6, 17.6, 10.3, 4.7, 8.7]
+mass: [0, 40], type: 0 
+plan_reward:  8.612
+
+start: 00:27:34
+end: 00:38:20
+PLAN: L15, D63
+PATH: L15, N14, N13, N23, N33, N43, N53, D63
+waiting: 00:00:20
+driving: 00:09:53
+time_since_last_used_node: 00:00:01
+state_plan: [1.0, 0.0, 2.0, 10.8, 13.1, 9.9]
+mass: [40, 0], type: 0 
+plan_reward:  18.226
+
+start: 00:38:20
+end: 00:43:01
+PLAN: D63, P83
+PATH: D63, N73, P83
+state_plan: [4.7, -4.6, 0.9, -7.7, 3.6, -6.1, -6.7, 14.0, 9.9, 12.9, 5.6, 4.3, 9.0]
+plan_reward:  19.669
+
+################ PARKED ################# 
+
+----------------------------------------------------------------

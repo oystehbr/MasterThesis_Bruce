@@ -1,0 +1,128 @@
+statistics_of_maps - done manually (base)
+    - Training 360 (20-10-10), 260 (5-10-20)
+    - coffee_break_agent OFF
+    - LR = 0.001
+    - MAX_MEMORY = 5000
+    - BATCH_SIZE = 500
+    - alpha: 0.5 ??
+    - reward_plan:
+        - Dumping:
+            - penalty_of_differences_mass = more_mass_runs[action_idx] * 60 * 8
+            - self.max_plan_reward = 50 * self.shortest_time_LD * 8
+            - self.penalty1 = max(penalty_of_differences_mass + 8 * self.driving_time, 1)
+        - Loading:
+            - self.max_plan_reward = 50 * self.shortest_time_LD * 5
+            - self.penalty1 = max(self.waiting_time + coffee_break - 3*node_waiting_time + 8*self.driving_time, 1)
+
+
+scenario1 - done automatically (2x waiting change)
+    - Loading:
+        - self.penalty1 = max(2 * self.waiting_time + coffee_break - 3*node_waiting_time + 8*self.driving_time, 1)
+    - Parking:
+        - self.penalty1 = max(2 * self.waiting_time + coffee_break - 3*node_waiting_time + 8*self.driving_time, 1)
+
+scenario2 - done automatically (exploration num changes)
+    - Training 360 (20-10-10) all over - no more than that
+
+scneario3 - done automatically (exploration num changes)
+    - Training 360 (20-10-10), 510 (5-20-20)
+
+scneario4 - done automatically (exploration num changes)
+    - Training 360 (20-10-10), 310 (5, 20, 10)
+
+scenario5 - done automatically (waiting time loader changes)
+    - Loading:
+        - self.penalty1 = max(3 * self.waiting_time + coffee_break - 3*node_waiting_time + 8*self.driving_time, 1)
+
+scenario6 - done automatically (difference in mass changes):
+    - Dumping:
+        - penalty_of_differences_mass = more_mass_runs[action_idx] * 60 * 8 * 2
+
+scenario7 - done automatically (distance weight down):
+    - self.max_plan_reward = 50 * self.shortest_time_LD * 2
+    - Loading:
+    - self.penalty1 = max(self.waiting_time +
+                                coffee_break - 3*node_waiting_time + 5*self.driving_time, 1)
+    - Parking:
+    - self.penalty1 = max(self.waiting_time +
+                                coffee_break - 3*node_waiting_time + 5*self.driving_time, 1)
+
+scenario8 - done automatically (distance weight up):
+    - self.max_plan_reward = 50 * self.shortest_time_LD * 7
+    - Loading:
+    - self.penalty1 = max(self.waiting_time +
+                                coffee_break - 3*node_waiting_time + 10*self.driving_time, 1)
+    - Parking:
+    - self.penalty1 = max(self.waiting_time +
+                                coffee_break - 3*node_waiting_time + 10*self.driving_time, 1)
+
+scenario9 - (more penalty on parking dudes)
+    - Parking:
+        - self.penalty1 = max(2*self.waiting_time +
+                                coffee_break - 3*node_waiting_time + 8*self.driving_time, 1)
+
+scenario10 - (similar to 9, but 3*waiting_time)
+
+
+scenario11 ():
+    - return min(self.max_plan_reward/self.penalty1, 150) # and no 100 in return for 0 distance
+
+
+scenario12-
+    - default values in master's thesis.  (I THINK)
+    - alpha = 0.5
+
+scenario13 - 
+    - alpha = 1
+
+scenario14-
+    - alpha = 1
+    - Training 360 (20-10-10), 510 (5-20-20)
+
+
+
+COFFEE BREAK AGENT NEED TO JOIN THE GAME
+
+
+
+small:
+'exploration': [20, 10, 10],
+'num_games': 360,
+values['exploration'] = [5, 10, 20]
+values['num_games'] = 260
+
+large:
+'exploration': [20, 10, 10],
+'num_games': 360,
+values['exploration'] = [5, 20, 20]
+values['num_games'] = 510
+
+Overall:
+- COFFEE BREAK AGENT OFF:
+    - alpha = 0.5 (THIS IS REPRODUCEBLE)
+        -  x-eval: SCENARIO 12 (score: 72.24)
+        - 2x-eval: SCENARIO 15 (score: 72.51)
+
+    - alpha = 1.0   (THIS IS REPRODUCIBLE)
+        - small-eval: SCENARIO 13 (score: 72.63)
+        - large-eval: SCENARIO 14 (score: 72.81)
+- COFFEE BREAK AGENT ON:
+    - alpha = 0.5
+        - small-eval: SCENARIO 16 (score 72.28)
+        - large-eval: SCENARIO 17 (score 72.86)
+
+    - alpha = 1.0
+        - small-eval: SCENARIO 18 (score 72.60)
+        - large-eval: SCENARIO 19 (score 72.66)
+
+
+
+    
+
+Can check out: 
+
+- alpha changes !!!!
+- NN changes -> try simplier networks
+- LR?
+- weights of Dumping and Loading plan
+- check out the waiting_time - parking correspondance

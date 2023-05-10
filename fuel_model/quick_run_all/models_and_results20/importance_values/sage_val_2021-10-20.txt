@@ -1,0 +1,5 @@
+AltitudeChange  0.000087 
+AltitudeDeltaEndStart  0.006092 
+AltitudeGain  0.003717 
+UpInclination  0.000386 
+AccTime  0.000038 

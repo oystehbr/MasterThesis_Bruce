@@ -1,0 +1,1 @@
+(Rating: 1111, Game:   2) | Distance (km):   304.57 | Time (s):    8121 | Loaders_waiting (min):   180 | Waiting_time (min):   240 | MassL (ton): 2400/2400 | 

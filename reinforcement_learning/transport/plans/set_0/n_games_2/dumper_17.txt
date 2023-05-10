@@ -1,0 +1,104 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    1458.00000   
+actual_route: P83   N73   D63   N53   N43   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  0.09617    0.09617    0.09617    0.09617    0.09617    0.09617    0.09617    0.09617    0.09617   
+plan: L15   
+mass_type: 0   
+state_plan: <helper.State object at 0x7faccd64a520>   
+waiting_time:  374.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  873.80000   
+plan_reward:  8.83303   
+coffee_state: [ 7.80178571 10.         12.11071429  8.93938065]   
+coffee_pred: tensor([13.5085, 14.0776], grad_fn=<AddBackward0>)   
+
+###1### start: 00:24:18
+full_route: full_reward: state_info: start_end_time:  1458.00000    2084.00000   
+actual_route: L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  4.98484    4.98484    4.98484    4.98484    4.98484    4.98484    4.98484   
+state_plan: <helper.State object at 0x7facef7e38b0>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  143.00000   
+mass_end:  0.00000   
+driving_time:  593.80000   
+plan_reward:  21.90973   
+
+###2### start: 00:34:44
+full_route: full_reward: state_info: start_end_time:  2084.00000    3118.00000   
+actual_route: D63   N53   N43   N33   N23   N13   N14   L15   N16   L17   N7   L8   
+mass:  0.00000    40.00000   
+actual_reward:  33.88095    33.88095    33.88095    33.88095    33.88095    33.88095    33.88095    33.88095    33.88095    33.88095    33.88095   
+state_plan: <helper.State object at 0x7fad1c38f7c0>   
+plan: L8   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  1418.00000   
+mass_end:  40.00000   
+driving_time:  840.00000   
+plan_reward:  26.34670   
+coffee_state: [ 7.5         9.25178571 11.18392857 38.8191452 ]   
+coffee_pred: None   
+
+###3### start: 00:51:58
+full_route: full_reward: state_info: start_end_time:  3118.00000    3683.00000   
+actual_route: L8   N7   L17   N27   N37   N47   D57   
+mass:  40.00000    0.00000   
+actual_reward:  8.71525    8.71525    8.71525    8.71525    8.71525    8.71525   
+state_plan: <helper.State object at 0x7fad1c6993a0>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  227.00000   
+mass_end:  0.00000   
+driving_time:  532.40000   
+plan_reward:  21.96151   
+
+###4### start: 01:01:23
+full_route: full_reward: state_info: start_end_time:  3683.00000    4342.00000   
+actual_route: D57   N47   N37   N27   L17   
+mass:  0.00000    40.00000   
+actual_reward:  30.26541    30.26541    30.26541    30.26541   
+state_plan: <helper.State object at 0x7faccd6f4fd0>   
+plan: L17   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  702.00000   
+mass_end:  40.00000   
+driving_time:  467.20000   
+plan_reward:  39.79567   
+coffee_state: [ 4.17142857 10.         11.18571429 14.93966103]   
+coffee_pred: tensor([14.1439, 16.3455], grad_fn=<AddBackward0>)   
+
+###5### start: 01:12:22
+full_route: full_reward: state_info: start_end_time:  4342.00000    4841.00000   
+actual_route: L17   N27   N37   N47   D57   
+mass:  40.00000    0.00000   
+actual_reward:  7.19178    7.19178    7.19178    7.19178   
+state_plan: <helper.State object at 0x7faccd739160>   
+plan: D57   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  163.00000   
+mass_end:  0.00000   
+driving_time:  467.20000   
+plan_reward:  27.84675   
+
+###6### start: 01:20:41
+full_route: full_reward: state_info: start_end_time:  4841.00000    5581.00000   
+actual_route: D57   N67   N66   N65   N75   N85   N84   P83   
+mass:  0.00000   
+actual_reward:  0.13565    0.13565    0.13565    0.13565    0.13565    0.13565    0.13565   
+state_plan: <helper.State object at 0x7faccd753910>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+waiting_time:  521.20000   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  737.20000   
+plan_reward:  10.12956   
+

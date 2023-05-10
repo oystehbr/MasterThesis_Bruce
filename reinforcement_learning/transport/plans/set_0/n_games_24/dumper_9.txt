@@ -1,0 +1,104 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    1811.00000   
+actual_route: P83   N82   L72   
+mass:  0.00000    40.00000   
+actual_reward:  0.07452    0.07452   
+plan: L72   
+mass_type: 0   
+state_plan: <helper.State object at 0x7facefe310a0>   
+waiting_time:  1328.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  282.40000   
+plan_reward:  18.13392   
+coffee_state: [ 2.52142857 10.          9.13214286 17.58526802]   
+coffee_pred: tensor([ 8.9276, 18.7861], grad_fn=<AddBackward0>)   
+
+###1### start: 00:30:11
+full_route: full_reward: state_info: start_end_time:  1811.00000    2162.00000   
+actual_route: L72   N62   N61   D60   
+mass:  40.00000    0.00000   
+actual_reward:  10.38149    10.38149    10.38149   
+state_plan: <helper.State object at 0x7facc02ebdc0>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  161.00000   
+mass_end:  0.00000   
+driving_time:  319.80000   
+plan_reward:  40.68168   
+
+###2### start: 00:36:02
+full_route: full_reward: state_info: start_end_time:  2162.00000    3142.00000   
+actual_route: D60   N50   N40   N30   N31   L32   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  10.54638    10.54638    10.54638    10.54638    10.54638    10.54638    10.54638    10.54638    10.54638    10.54638   
+state_plan: <helper.State object at 0x7fad1c463910>   
+plan: L15   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  410.00000   
+mass_end:  40.00000   
+driving_time:  787.00000   
+plan_reward:  12.83291   
+coffee_state: [ 7.02678571 10.          8.16964286 14.50728893]   
+coffee_pred: tensor([ 7.2396, 12.4812], grad_fn=<AddBackward0>)   
+
+###3### start: 00:52:22
+full_route: full_reward: state_info: start_end_time:  3142.00000    3962.00000   
+actual_route: L15   N14   N13   N23   N33   L32   N31   N30   N40   N50   D60   
+mass:  40.00000    0.00000   
+actual_reward:  24.59975    24.59975    24.59975    24.59975    24.59975    24.59975    24.59975    24.59975    24.59975    24.59975   
+state_plan: <helper.State object at 0x7faccde86460>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  963.00000   
+mass_end:  0.00000   
+driving_time:  787.00000   
+plan_reward:  16.53113   
+
+###4### start: 01:06:02
+full_route: full_reward: state_info: start_end_time:  3962.00000    4942.00000   
+actual_route: D60   N50   N40   N30   N31   L32   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  9.98729    9.98729    9.98729    9.98729    9.98729    9.98729    9.98729    9.98729    9.98729    9.98729   
+state_plan: <helper.State object at 0x7facce550e80>   
+plan: L15   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  388.00000   
+mass_end:  40.00000   
+driving_time:  787.00000   
+plan_reward:  12.66796   
+coffee_state: [ 7.02678571 10.         13.91785714 24.26338387]   
+coffee_pred: tensor([ 9.8030, 20.3338], grad_fn=<AddBackward0>)   
+
+###5### start: 01:22:22
+full_route: full_reward: state_info: start_end_time:  4942.00000    5568.00000   
+actual_route: L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  20.61300    20.61300    20.61300    20.61300    20.61300    20.61300    20.61300   
+state_plan: <helper.State object at 0x7facce5935b0>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  607.00000   
+mass_end:  0.00000   
+driving_time:  593.80000   
+plan_reward:  16.81313   
+
+###6### start: 01:32:48
+full_route: full_reward: state_info: start_end_time:  5568.00000    5849.00000   
+actual_route: D63   N73   P83   
+mass:  0.00000   
+actual_reward:  0.35714    0.35714   
+state_plan: <helper.State object at 0x7facce5ae2e0>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+waiting_time:  550.73333   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  280.00000   
+plan_reward:  23.28426   
+

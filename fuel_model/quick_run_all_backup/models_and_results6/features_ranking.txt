@@ -1,0 +1,8 @@
+TOTAL RANK   TEST   VAL   FEAT_IMPORTANCE   (FEATURE) 
+     0        0     0           0            AltitudeDeltaEndStart
+     4        2     1           1            AltitudeGain
+     6        1     2           3            AltitudeGainPart
+    11        3     3           5            AccTime
+    13        6     5           2            AltitudeDeltaMaxMin
+    14        4     4           6            UpInclination
+    15        5     6           4            SpeedMean

@@ -1,0 +1,8 @@
+Quantity
+AltitudeChange
+AltitudeDeltaEndStart
+AltitudeGain
+AltitudeDeltaMaxMin
+UpInclination
+AccTime
+SpeedMean

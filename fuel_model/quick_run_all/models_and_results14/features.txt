@@ -1,0 +1,4 @@
+Quantity
+AltitudeDeltaEndStart
+AltitudeGain
+AccTime

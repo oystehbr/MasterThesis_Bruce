@@ -1,0 +1,4 @@
+Quantity -0.001027 
+AltitudeDeltaEndStart  0.007056 
+AltitudeGain  0.004119 
+AccTime  0.001959 

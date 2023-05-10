@@ -1,0 +1,43 @@
+\newmdenv[
+  backgroundcolor=gray!10,
+  roundcorner=5pt,
+  linecolor=black,
+  linewidth=1pt,
+  innertopmargin=5pt,
+  innerbottommargin=5pt,
+]{theoremframe_helper}
+
+\renewenvironment{theoremframe}{%
+  \par\vfil
+   \vtop\bgroup
+  %\par\nobreak\vspace{\topsep}%
+  \begin{theoremframe_helper}
+  \noindent\ignorespaces
+}{%
+  \end{theoremframe_helper}%
+  \par\vspace{\topsep}%
+  \par
+}
+
+
+
+\newmdenv[
+  backgroundcolor=gray!10,
+  roundcorner=5pt,
+  linecolor=black,
+  linewidth=1pt,
+  innertopmargin=\topskip,
+  innerbottommargin=\topskip,
+]{theoremframe_helper}
+
+\renewenvironment{theoremframe}{%
+  \par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup
+  %\par\nobreak\vspace{\topsep}%
+  \begin{theoremframe_helper}
+  \noindent\ignorespaces
+}{%
+  \end{theoremframe_helper}%
+  \par\vspace{\topsep}%
+  \par\nobreak
+}

@@ -1,0 +1,104 @@
+###0### start: 00:00:00
+full_route: full_reward: state_info: start_end_time:  0.00000    1429.00000   
+actual_route: P83   N82   L72   
+mass:  0.00000    40.00000   
+actual_reward:  0.09745    0.09745   
+plan: L72   
+mass_type: 0   
+state_plan: <helper.State object at 0x7faca8405430>   
+waiting_time:  949.00000   
+time_since_last_used_node:  1.00000   
+mass_end:  40.00000   
+driving_time:  282.40000   
+plan_reward:  20.27617   
+coffee_state: [ 2.52142857 10.          9.13214286 20.81280708]   
+coffee_pred: tensor([13.5016, 21.0802], grad_fn=<AddBackward0>)   
+
+###1### start: 00:23:49
+full_route: full_reward: state_info: start_end_time:  1429.00000    1780.00000   
+actual_route: L72   N62   N61   D60   
+mass:  40.00000    0.00000   
+actual_reward:  10.38149    10.38149    10.38149   
+state_plan: <helper.State object at 0x7facc1ec94c0>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  161.00000   
+mass_end:  0.00000   
+driving_time:  319.80000   
+plan_reward:  40.68168   
+
+###2### start: 00:29:40
+full_route: full_reward: state_info: start_end_time:  1780.00000    2760.00000   
+actual_route: D60   N50   N40   N30   N31   L32   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  13.87548    13.87548    13.87548    13.87548    13.87548    13.87548    13.87548    13.87548    13.87548    13.87548   
+state_plan: <helper.State object at 0x7facc1f823d0>   
+plan: L15   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  541.00000   
+mass_end:  40.00000   
+driving_time:  787.00000   
+plan_reward:  13.91146   
+coffee_state: [ 7.02678571 10.          8.16964286 14.056077  ]   
+coffee_pred: tensor([10.2296, 13.4428], grad_fn=<AddBackward0>)   
+
+###3### start: 00:46:00
+full_route: full_reward: state_info: start_end_time:  2760.00000    3386.00000   
+actual_route: L15   N14   N13   N23   N33   N43   N53   D63   
+mass:  40.00000    0.00000   
+actual_reward:  21.89289    21.89289    21.89289    21.89289    21.89289    21.89289    21.89289   
+state_plan: <helper.State object at 0x7facc1ea7700>   
+plan: D63   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  645.00000   
+mass_end:  0.00000   
+driving_time:  593.80000   
+plan_reward:  18.22639   
+
+###4### start: 00:56:26
+full_route: full_reward: state_info: start_end_time:  3386.00000    4172.00000   
+actual_route: D63   N53   N43   N33   N23   N13   N14   L15   
+mass:  0.00000    40.00000   
+actual_reward:  18.39003    18.39003    18.39003    18.39003    18.39003    18.39003    18.39003   
+state_plan: <helper.State object at 0x7faca87dd3a0>   
+plan: L15   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  541.00000   
+mass_end:  40.00000   
+driving_time:  593.80000   
+plan_reward:  20.78009   
+coffee_state: [ 5.30178571 10.         11.3625     23.13147545]   
+coffee_pred: tensor([14.3054, 22.5773], grad_fn=<AddBackward0>)   
+
+###5### start: 01:09:32
+full_route: full_reward: state_info: start_end_time:  4172.00000    4992.00000   
+actual_route: L15   N14   N13   N23   N33   L32   N31   N30   N40   N50   D60   
+mass:  40.00000    0.00000   
+actual_reward:  5.28590    5.28590    5.28590    5.28590    5.28590    5.28590    5.28590    5.28590    5.28590    5.28590   
+state_plan: <helper.State object at 0x7facc1f9db80>   
+plan: D60   
+mass_type: 0   
+waiting_time:  0.00000   
+time_since_last_used_node:  203.00000   
+mass_end:  0.00000   
+driving_time:  787.00000   
+plan_reward:  16.53113   
+
+###6### start: 01:23:12
+full_route: full_reward: state_info: start_end_time:  4992.00000    5577.00000   
+actual_route: D60   N61   N62   D63   N73   P83   
+mass:  0.00000   
+actual_reward:  0.17159    0.17159    0.17159    0.17159    0.17159   
+state_plan: <helper.State object at 0x7fad1d268f10>   
+plan: P83   
+mass_type: p   a   r   k   i   n   g   
+waiting_time:  510.06667   
+time_since_last_used_node:  0.00000   
+mass_end:  0.00000   
+driving_time:  582.80000   
+plan_reward:  12.56891   
+

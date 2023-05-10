@@ -1,0 +1,7 @@
+Quantity -0.000761 
+AltitudeDeltaEndStart  0.006771 
+AltitudeGain  0.003453 
+AltitudeGainPart  0.001023 
+AltitudeLossPart -0.000345 
+AccTime  0.001608 
+SumRotation  0.000638 
