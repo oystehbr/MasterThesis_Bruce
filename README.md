@@ -1,8 +1,8 @@
 # Master's thesis - Øystein Høistad Bruce 🥇
-Supervisors: Signe Riemer-Sørensen, Øyvind Ryan and Vegard Antun  
-Master's thesis pdf: ØysteinHøistadBruce_Thesis.pdf
+__Supervisors:__ Signe Riemer-Sørensen, Øyvind Ryan and Vegard Antun  
+__Master's thesis pdf:__ ØysteinHøistadBruce_Thesis.pdf
 
-Folders:
+__Folders:__
 - __reinforcement_learning__ 🤖: the code for the reinforcement learning part.
 - __fuel_model__ ⛽︎: the code for the fuel model part. 
 
