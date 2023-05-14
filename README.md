@@ -1,5 +1,5 @@
 # Master's thesis - Øystein Høistad Bruce 🥇
-Supervisors: Signe Riemer-Sørensen, Øyvind Ryan and Vegard Antun__
+Supervisors: Signe Riemer-Sørensen, Øyvind Ryan and Vegard Antun  
 Master's thesis pdf: ØysteinHøistadBruce_Thesis.pdf
 
 Folders:
