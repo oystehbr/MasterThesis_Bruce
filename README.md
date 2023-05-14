@@ -1,5 +1,6 @@
 # Master's thesis - Øystein Høistad Bruce 🥇
 Supervisors: Signe Riemer-Sørensen, Øyvind Ryan and Vegard Antun
+Master's thesis pdf: ØysteinHøistadBruce_Thesis.pdf
 
 Folders:
 - __reinforcement_learning__ 🤖: the code for the reinforcement learning part.
